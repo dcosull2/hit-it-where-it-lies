@@ -1,0 +1,443 @@
+"","player_name","total_distance","Team","multiplier"
+"1","Marcus Semien",6948,"Oakland",54.7086614173228
+"2","Ketel Marte",6760,"Arizona",53.2283464566929
+"3","Domingo Santana",6733,"Seattle",53.0157480314961
+"4","Jorge Polanco",6709,"Minnesota",52.8267716535433
+"5","Freddie Freeman",6583,"Atlanta",51.8346456692913
+"6","Mookie Betts",6457,"Boston",50.8425196850394
+"7","Nick Markakis",6387,"Atlanta",50.2913385826772
+"8","Jay Bruce",6261,"Seattle,Philadelphia",49.2992125984252
+"9","Ozzie Albies",6244,"Atlanta",49.1653543307087
+"10","Josh Reddick",6228,"Houston",49.0393700787402
+"11","Khris Davis",6105,"Oakland",48.0708661417323
+"12","Elvis Andrus",6097,"Texas",48.007874015748
+"13","Corey Seager",6077,"Los Angeles",47.8503937007874
+"14","Tommy La Stella",6070,"Los Angeles",47.7952755905512
+"15","Andrew Benintendi",6007,"Boston",47.2992125984252
+"16","Ronald Acuna Jr.",5982,"Atlanta",47.1023622047244
+"17","Ramon Laureano",5979,"Oakland",47.0787401574803
+"18","Yuli Gurriel",5849,"Houston",46.0551181102362
+"19","Kyle Schwarber",5747,"Chicago",45.251968503937
+"20","Eduardo Escobar",5674,"Arizona",44.6771653543307
+"21","Kyle Seager",5669,"Seattle",44.6377952755905
+"22","Daniel Vogelbach",5540,"Seattle",43.6220472440945
+"23","Anthony Rendon",5479,"Washington",43.1417322834646
+"24","David Dahl",5455,"Colorado",42.9527559055118
+"25","Tony Kemp",5435,"Houston",42.7952755905512
+"26","Yandy Diaz",5421,"Tampa Bay",42.6850393700787
+"27","Jorge Soler",5296,"Kansas City",41.7007874015748
+"28","Stephen Piscotty",5260,"Oakland",41.4173228346457
+"29","Brandon Dixon",5220,"Detroit",41.1023622047244
+"30","Gio Urshela",5186,"New York",40.8346456692913
+"31","Gary Sanchez",5165,"New York",40.6692913385827
+"32","JaCoby Jones",5162,"Detroit",40.6456692913386
+"33","Nicholas Castellanos",5112,"Detroit",40.251968503937
+"34","Mallex Smith",5108,"Seattle",40.2204724409449
+"35","Starling Marte",5098,"Pittsburgh",40.1417322834646
+"36","Austin Riley",5058,"Atlanta",39.8267716535433
+"37","Mike Trout",5045,"Los Angeles",39.7244094488189
+"38","Mike Moustakas",4950,"Milwaukee",38.9763779527559
+"39","Jeff McNeil",4947,"New York",38.9527559055118
+"40","J.T. Realmuto",4943,"Philadelphia",38.9212598425197
+"41","Asdrubal Cabrera",4941,"Texas",38.9055118110236
+"42","Anthony Rizzo",4828,"Chicago",38.0157480314961
+"43","Edwin Encarnacion",4802,"Seattle",37.8110236220472
+"44","Brandon Lowe",4756,"Tampa Bay",37.4488188976378
+"45","Yasmani Grandal",4746,"Milwaukee",37.3700787401575
+"46","Kole Calhoun",4741,"Los Angeles",37.3307086614173
+"47","Nomar Mazara",4724,"Texas",37.1968503937008
+"48","Scott Kingery",4707,"Philadelphia",37.0629921259843
+"49","Xander Bogaerts",4694,"Boston",36.9606299212598
+"50","DJ LeMahieu",4629,"New York",36.4488188976378
+"51","Carlos Santana",4628,"Cleveland",36.4409448818898
+"52","Willy Adames",4565,"Tampa Bay",35.9448818897638
+"53","Francisco Lindor",4555,"Cleveland",35.8661417322835
+"54","David Peralta",4530,"Arizona",35.6692913385827
+"55","Jose Ramirez",4505,"Cleveland",35.4724409448819
+"56","Joe Panik",4503,"San Francisco",35.4566929133858
+"57","Bryce Harper",4484,"Philadelphia",35.3070866141732
+"58","Tim Anderson",4483,"Chicago",35.2992125984252
+"59","Austin Meadows",4460,"Tampa Bay",35.1181102362205
+"60","Enrique Hernandez",4460,"Los Angeles",35.1181102362205
+"61","Luis Rengifo",4445,"Los Angeles",35
+"62","Aaron Hicks",4440,"New York",34.9606299212598
+"63","Amed Rosario",4434,"New York",34.9133858267717
+"64","Eddie Rosario",4431,"Minnesota",34.8897637795276
+"65","Marcell Ozuna",4408,"St. Louis",34.7086614173228
+"66","Justin Turner",4372,"Los Angeles",34.4251968503937
+"67","Trea Turner",4353,"Washington",34.2755905511811
+"68","Whit Merrifield",4311,"Kansas City",33.9448818897638
+"69","Paul Goldschmidt",4310,"St. Louis",33.9370078740157
+"70","Jean Segura",4306,"Philadelphia",33.9055118110236
+"71","Alex Bregman",4285,"Houston",33.740157480315
+"72","Javier Baez",4224,"Chicago",33.259842519685
+"73","Christin Stewart",4223,"Detroit",33.251968503937
+"74","Cody Bellinger",4221,"Los Angeles",33.2362204724409
+"75","Brian Dozier",4182,"Washington",32.9291338582677
+"76","Oscar Mercado",4180,"Cleveland",32.9133858267717
+"77","Matt Olson",4163,"Oakland",32.7795275590551
+"78","Ronald Guzman",4153,"Texas",32.7007874015748
+"79","Miguel Rojas",4146,"Miami",32.6456692913386
+"80","Ryan Braun",4146,"Milwaukee",32.6456692913386
+"81","Rhys Hoskins",4142,"Philadelphia",32.6141732283465
+"82","Dansby Swanson",4113,"Atlanta",32.3858267716535
+"83","Miguel Cabrera",4109,"Detroit",32.3543307086614
+"84","Max Kepler",4086,"Minnesota",32.1732283464567
+"85","Rafael Devers",4081,"Boston",32.1338582677165
+"86","Franmil Reyes",4072,"San Diego",32.0629921259843
+"87","Alex Gordon",4070,"Kansas City",32.0472440944882
+"88","Yoan Moncada",4054,"Chicago",31.9212598425197
+"89","Albert Pujols",4031,"Los Angeles",31.740157480315
+"90","Ian Kinsler",4028,"San Diego",31.7165354330709
+"91","J.D. Martinez",4024,"Boston",31.6850393700787
+"92","Adam Eaton",4014,"Washington",31.6062992125984
+"93","Howie Kendrick",4014,"Washington",31.6062992125984
+"94","Kevin Kiermaier",4010,"Tampa Bay",31.5748031496063
+"95","Matt Chapman",4009,"Oakland",31.5669291338583
+"96","Clint Frazier",3994,"New York",31.4488188976378
+"97","Christian Yelich",3982,"Milwaukee",31.3543307086614
+"98","Hunter Pence",3961,"Texas",31.1889763779528
+"99","Josh Phegley",3947,"Oakland",31.0787401574803
+"100","Josh Bell",3942,"Pittsburgh",31.0393700787402
+"101","Kevin Pillar",3929,"San Francisco,Toronto",30.9370078740157
+"102","Rougned Odor",3927,"Texas",30.9212598425197
+"103","Lourdes Gurriel Jr.",3914,"Toronto",30.8188976377953
+"104","Jose Abreu",3911,"Chicago",30.7952755905512
+"105","Todd Frazier",3901,"New York",30.7165354330709
+"106","Brett Gardner",3886,"New York",30.5984251968504
+"107","Kris Bryant",3851,"Chicago",30.3228346456693
+"108","Jason Heyward",3836,"Chicago",30.2047244094488
+"109","Dylan Moore",3830,"Seattle",30.1574803149606
+"110","Josh Donaldson",3776,"Atlanta",29.7322834645669
+"111","Nelson Cruz",3759,"Minnesota",29.5984251968504
+"112","David Bote",3753,"Chicago",29.5511811023622
+"113","C.J. Cron",3740,"Minnesota",29.4488188976378
+"114","Avisail Garcia",3710,"Tampa Bay",29.2125984251969
+"115","Daniel Murphy",3708,"Colorado",29.1968503937008
+"116","Yasiel Puig",3667,"Cincinnati",28.8740157480315
+"117","Hanser Alberto",3649,"Baltimore",28.7322834645669
+"118","Vladimir Guerrero Jr.",3637,"Toronto",28.6377952755906
+"119","Robinson Chirinos",3619,"Houston",28.496062992126
+"120","Trevor Story",3615,"Colorado",28.4645669291339
+"121","Christian Walker",3601,"Arizona",28.3543307086614
+"122","Harrison Bader",3601,"St. Louis",28.3543307086614
+"123","Omar Narvaez",3546,"Seattle",27.9212598425197
+"124","Randal Grichuk",3545,"Toronto",27.9133858267717
+"125","Evan Longoria",3539,"San Francisco",27.8661417322835
+"126","Juan Soto",3521,"Washington",27.7244094488189
+"127","Nick Senzel",3510,"Cincinnati",27.6377952755906
+"128","Brian Anderson",3502,"Miami",27.5748031496063
+"129","Jurickson Profar",3490,"Oakland",27.4803149606299
+"130","Trey Mancini",3475,"Baltimore",27.3622047244094
+"131","Eugenio Suarez",3454,"Cincinnati",27.1968503937008
+"132","Victor Robles",3454,"Washington",27.1968503937008
+"133","Leury Garcia",3425,"Chicago",26.9685039370079
+"134","Colin Moran",3402,"Pittsburgh",26.7874015748031
+"135","Kevin Newman",3398,"Pittsburgh",26.755905511811
+"136","Pete Alonso",3390,"New York",26.6929133858268
+"137","Jarrod Dyson",3388,"Arizona",26.6771653543307
+"138","Ji-Man Choi",3385,"Tampa Bay",26.6535433070866
+"139","Starlin Castro",3384,"Miami",26.6456692913386
+"140","Cavan Biggio",3349,"Toronto",26.3700787401575
+"141","Max Muncy",3348,"Los Angeles",26.3622047244094
+"142","Bryan Reynolds",3345,"Pittsburgh",26.3385826771654
+"143","Jonathan Lucroy",3329,"Los Angeles",26.2125984251969
+"144","Nolan Arenado",3314,"Colorado",26.0944881889764
+"145","Eric Hosmer",3311,"San Diego",26.0708661417323
+"146","Michael Conforto",3310,"New York",26.0629921259843
+"147","David Fletcher",3299,"Los Angeles",25.9763779527559
+"148","Hunter Renfroe",3298,"San Diego",25.9685039370079
+"149","Michael Brantley",3278,"Houston",25.8110236220472
+"150","Roberto Perez",3277,"Cleveland",25.8031496062992
+"151","Curtis Granderson",3251,"Miami",25.5984251968504
+"152","Jack Mayfield",3241,"Houston",25.5196850393701
+"153","Teoscar Hernandez",3197,"Toronto",25.1732283464567
+"154","Byron Buxton",3182,"Minnesota",25.0551181102362
+"155","Cesar Hernandez",3150,"Philadelphia",24.8031496062992
+"156","Eric Thames",3147,"Milwaukee",24.7795275590551
+"157","Greg Garcia",3143,"San Diego",24.748031496063
+"158","Jackie Bradley Jr.",3139,"Boston",24.7165354330709
+"159","Yan Gomes",3114,"Washington",24.5196850393701
+"160","Justin Smoak",3108,"Toronto",24.4724409448819
+"161","Adam Frazier",3105,"Pittsburgh",24.4488188976378
+"162","Stephen Vogt",3105,"San Francisco",24.4488188976378
+"163","Ildemaro Vargas",3094,"Arizona",24.3622047244094
+"164","Joey Votto",3094,"Cincinnati",24.3622047244094
+"165","Brian Goodwin",3049,"Los Angeles",24.007874015748
+"166","Tom Murphy",3039,"Seattle",23.9291338582677
+"167","Marwin Gonzalez",3037,"Minnesota",23.9133858267717
+"168","Raimel Tapia",3032,"Colorado",23.8740157480315
+"169","Jake Marisnick",3009,"Houston",23.6929133858268
+"170","Chris Taylor",2977,"Los Angeles",23.4409448818898
+"171","Jonathan Schoop",2974,"Minnesota",23.4173228346457
+"172","Cameron Maybin",2951,"New York",23.2362204724409
+"173","Delino DeShields",2925,"Texas",23.0314960629921
+"174","Cheslor Cuthbert",2923,"Kansas City",23.0157480314961
+"175","Miguel Sano",2919,"Minnesota",22.9842519685039
+"176","J.D. Davis",2895,"New York",22.7952755905512
+"177","Danny Santana",2882,"Texas",22.6929133858268
+"178","Manny Machado",2870,"San Diego",22.5984251968504
+"179","Dexter Fowler",2867,"St. Louis",22.5748031496063
+"180","Yolmer Sanchez",2867,"Chicago",22.5748031496063
+"181","Garrett Cooper",2857,"Miami",22.496062992126
+"182","Tyler White",2852,"Houston",22.4566929133858
+"183","Christian Vazquez",2834,"Boston",22.3149606299213
+"184","Welington Castillo",2804,"Chicago",22.0787401574803
+"185","Lorenzo Cain",2794,"Milwaukee",22
+"186","Robbie Grossman",2784,"Oakland",21.9212598425197
+"187","Kolten Wong",2766,"St. Louis",21.7795275590551
+"188","Orlando Arcia",2751,"Milwaukee",21.6614173228346
+"189","Harold Ramirez",2730,"Miami",21.496062992126
+"190","Matt Carpenter",2708,"St. Louis",21.3228346456693
+"191","Adalberto Mondesi",2705,"Kansas City",21.2992125984252
+"192","Brian McCann",2701,"Atlanta",21.2677165354331
+"193","Josh Naylor",2683,"San Diego",21.1259842519685
+"194","Brandon Belt",2681,"San Francisco",21.1102362204724
+"195","Kurt Suzuki",2659,"Washington",20.9370078740157
+"196","Derek Fisher",2655,"Houston",20.9055118110236
+"197","David Freese",2647,"Los Angeles",20.8425196850394
+"198","Eric Sogard",2647,"Toronto",20.8425196850394
+"199","Charlie Blackmon",2641,"Colorado",20.7952755905512
+"200","Carlos Gomez",2611,"New York",20.5590551181102
+"201","Travis Shaw",2555,"Milwaukee",20.1181102362205
+"202","Shed Long",2554,"Seattle",20.1102362204724
+"203","Mike Yastrzemski",2545,"San Francisco",20.0393700787402
+"204","Travis d'Arnaud",2538,"Tampa Bay,New York,Los Angeles",19.9842519685039
+"205","James McCann",2526,"Chicago",19.8897637795276
+"206","Wilson Ramos",2484,"New York",19.5590551181102
+"207","Carlos Gonzalez",2465,"Cleveland,Chicago",19.4094488188976
+"208","Jesus Aguilar",2463,"Milwaukee",19.3937007874016
+"209","Donovan Solano",2458,"San Francisco",19.3543307086614
+"210","Brandon Crawford",2457,"San Francisco",19.3464566929134
+"211","Tommy Pham",2441,"Tampa Bay",19.2204724409449
+"212","Christian Arroyo",2434,"Tampa Bay",19.1653543307087
+"213","Ian Desmond",2427,"Colorado",19.1102362204724
+"214","Martin Prado",2426,"Miami",19.1023622047244
+"215","Pedro Severino",2424,"Baltimore",19.0866141732283
+"216","Shohei Ohtani",2417,"Los Angeles",19.0314960629921
+"217","Jonathan Villar",2416,"Baltimore",19.0236220472441
+"218","Mike Zunino",2395,"Tampa Bay",18.8582677165354
+"219","Ronny Rodriguez",2386,"Detroit",18.7874015748031
+"220","Tim Locastro",2385,"Arizona",18.7795275590551
+"221","Steven Duggar",2357,"San Francisco",18.5590551181102
+"222","Guillermo Heredia",2343,"Tampa Bay",18.4488188976378
+"223","Albert Almora Jr.",2326,NA,18.3149606299213
+"224","Austin Hedges",2321,"San Diego",18.2755905511811
+"225","Mark Canha",2311,"Oakland",18.1968503937008
+"226","Shin-Soo Choo",2289,"Texas",18.0236220472441
+"227","Jason Kipnis",2287,"Cleveland",18.007874015748
+"228","Carson Kelly",2283,"Arizona",17.9763779527559
+"229","Elias Diaz",2271,"Pittsburgh",17.8818897637795
+"230","Mac Williamson",2268,"San Francisco,Seattle",17.8582677165354
+"231","Melky Cabrera",2267,"Pittsburgh",17.8503937007874
+"232","Austin Dean",2263,"Miami",17.8188976377953
+"233","Eloy Jimenez",2242,"Chicago",17.6535433070866
+"234","Rowdy Tellez",2207,"Toronto",17.3779527559055
+"235","Joc Pederson",2188,"Los Angeles",17.2283464566929
+"236","Nick Ahmed",2185,"Arizona",17.2047244094488
+"237","JT Riddle",2156,"Miami",16.9763779527559
+"238","Jake Bauers",2127,"Cleveland",16.748031496063
+"239","Jose Peraza",2079,"Cincinnati",16.3700787401575
+"240","Alex Verdugo",2078,"Los Angeles",16.3622047244094
+"241","Tyler Naquin",2074,"Cleveland",16.3307086614173
+"242","Kendrys Morales",2068,"New York,Oakland",16.2834645669291
+"243","Derek Dietrich",2067,"Cincinnati",16.2755905511811
+"244","Ryan McMahon",2067,"Colorado",16.2755905511811
+"245","Luke Maile",2046,"Toronto",16.1102362204724
+"246","Paul DeJong",2014,"St. Louis",15.8582677165354
+"247","Willson Contreras",2011,"Chicago",15.8346456692913
+"248","Dawel Lugo",1996,"Detroit",15.7165354330709
+"249","Michael Chavis",1996,"Boston",15.7165354330709
+"250","Harold Castro",1993,"Detroit",15.6929133858268
+"251","Freddy Galvis",1992,"Toronto",15.6850393700787
+"252","Rio Ruiz",1967,"Baltimore",15.488188976378
+"253","Kevin Cron",1955,"Arizona",15.3937007874016
+"254","Gleyber Torres",1936,"New York",15.244094488189
+"255","Danny Jansen",1934,"Toronto",15.2283464566929
+"256","Jung Ho Kang",1933,"Pittsburgh",15.2204724409449
+"257","Jose Iglesias",1931,"Cincinnati",15.2047244094488
+"258","Nicky Lopez",1914,"Kansas City",15.0708661417323
+"259","Wil Myers",1908,"San Diego",15.0236220472441
+"260","Didi Gregorius",1902,"New York",14.9763779527559
+"261","Leonys Martin",1902,"Cleveland",14.9763779527559
+"262","Wilfredo Tovar",1886,"Los Angeles",14.8503937007874
+"263","Logan Forsythe",1864,"Texas",14.6771653543307
+"264","Adam Jones",1850,"Arizona",14.5669291338583
+"265","Tony Wolters",1832,"Colorado",14.4251968503937
+"266","Chris Davis",1820,"Baltimore",14.3307086614173
+"267","Luke Voit",1809,"New York",14.244094488189
+"268","Chance Sisco",1783,"Baltimore",14.0393700787402
+"269","Jordan Luplow",1772,"Cleveland",13.9527559055118
+"270","Gregory Polanco",1764,"Pittsburgh",13.8897637795276
+"271","Daniel Robertson",1752,"Tampa Bay",13.7952755905512
+"272","Brock Holt",1743,"Boston",13.7244094488189
+"273","Addison Russell",1729,"Chicago",13.6141732283465
+"274","Ben Gamel",1716,"Milwaukee",13.511811023622
+"275","Pablo Sandoval",1715,"San Francisco",13.503937007874
+"276","Mitch Garver",1712,"Minnesota",13.4803149606299
+"277","Maikel Franco",1710,"Philadelphia",13.4645669291339
+"278","Eduardo Nunez",1709,"Boston",13.4566929133858
+"279","Myles Straw",1705,"Houston",13.4251968503937
+"280","Victor Caratini",1700,"Chicago",13.3858267716535
+"281","Gordon Beckham",1698,"Detroit",13.3700787401575
+"282","Corey Dickerson",1688,"Pittsburgh",13.2913385826772
+"283","Russell Martin",1672,"Los Angeles",13.1653543307087
+"284","Chad Pinder",1666,"Oakland",13.1181102362205
+"285","John Hicks",1659,"Detroit",13.0629921259843
+"286","Billy Hamilton",1655,"Kansas City",13.0314960629921
+"287","Jesse Winker",1637,"Cincinnati",12.8897637795276
+"288","Kevin Plawecki",1633,"Cleveland",12.8582677165354
+"289","Sandy Leon",1622,"Boston",12.7716535433071
+"290","Gerardo Parra",1596,"San Francisco,Washington",12.5669291338583
+"291","Anthony Santander",1595,"Baltimore",12.5590551181102
+"292","Curt Casali",1582,"Cincinnati",12.4566929133858
+"293","Matt Wieters",1564,"St. Louis",12.3149606299213
+"294","Niko Goodrum",1560,"Detroit",12.2834645669291
+"295","Adeiny Hechavarria",1547,"New York",12.1811023622047
+"296","Jacob Stallings",1500,"Pittsburgh",11.8110236220472
+"297","Dee Gordon",1460,"Seattle",11.496062992126
+"298","Matt Adams",1436,"Washington",11.3070866141732
+"299","Brendan Rodgers",1425,"Colorado",11.2204724409449
+"300","Tim Federowicz",1412,"Texas",11.1181102362205
+"301","Keon Broxton",1408,"Baltimore,New York",11.0866141732283
+"302","Tucker Barnhart",1406,"Cincinnati",11.0708661417323
+"303","Fernando Tatis Jr.",1393,"San Diego",10.9685039370079
+"304","Tyler Austin",1365,"Minnesota,San Francisco",10.748031496063
+"305","Richie Martin",1359,"Baltimore",10.7007874015748
+"306","Dominic Smith",1351,"New York",10.6377952755906
+"307","Renato Nunez",1351,"Baltimore",10.6377952755906
+"308","Charlie Tilson",1349,"Chicago",10.6220472440945
+"309","Tyler Flowers",1349,"Atlanta",10.6220472440945
+"310","Jason Castro",1345,"Minnesota",10.5905511811024
+"311","Josh VanMeter",1326,"Cincinnati",10.4409448818898
+"312","Yordan Alvarez",1303,"Houston",10.259842519685
+"313","Cesar Puello",1259,"Los Angeles",9.91338582677165
+"314","Jorge Alfaro",1241,"Miami",9.77165354330709
+"315","Jose Rondon",1195,"Chicago",9.40944881889764
+"316","Mitch Haniger",1190,"Seattle",9.37007874015748
+"317","Alex Avila",1185,"Arizona",9.33070866141732
+"318","Jose Martinez",1144,"St. Louis",9.00787401574803
+"319","Manny Pina",1131,"Milwaukee",8.90551181102362
+"320","Yairo Munoz",1080,"St. Louis",8.50393700787402
+"321","Mark Reynolds",1074,"Colorado",8.45669291338583
+"322","Chris Iannetta",1071,"Colorado",8.43307086614173
+"323","Manuel Margot",1043,"San Diego",8.21259842519685
+"324","Tim Beckham",1041,"Seattle",8.19685039370079
+"325","Johan Camargo",1031,"Atlanta",8.11811023622047
+"326","Brandon Drury",1006,"Toronto",7.92125984251969
+"327","Marco Hernandez",1006,"Boston",7.92125984251969
+"328","Garrett Stubbs",1002,"Houston",7.88976377952756
+"329","Willians Astudillo",997,"Minnesota",7.8503937007874
+"330","Austin Barnes",990,"Los Angeles",7.79527559055118
+"331","DJ Stewart",989,"Baltimore",7.78740157480315
+"332","Ryan Cordell",983,"Chicago",7.74015748031496
+"333","Will Smith",981,"Los Angeles",7.7244094488189
+"334","Ryan O'Hearn",980,"Kansas City",7.71653543307087
+"335","Grayson Greiner",968,"Detroit",7.62204724409449
+"336","Yadier Molina",961,"St. Louis",7.56692913385827
+"337","Dwight Smith Jr",956,NA,7.52755905511811
+"338","Bryan Holaday",949,"Miami",7.47244094488189
+"339","Jose Osuna",948,"Pittsburgh",7.46456692913386
+"340","Kelvin Gutierrez",945,"Kansas City",7.44094488188976
+"341","Cole Tucker",943,"Pittsburgh",7.4251968503937
+"342","Juan Lagares",925,"New York",7.28346456692913
+"343","Charlie Culberson",921,"Atlanta",7.25196850393701
+"344","Matt Joyce",918,NA,7.22834645669291
+"345","Ehire Adrianza",887,"Minnesota",6.98425196850394
+"346","Nick Williams",876,"Philadelphia",6.89763779527559
+"347","Cam Gallagher",872,"Kansas City",6.86614173228346
+"348","Martin Maldonado",854,"Kansas City",6.7244094488189
+"349","Jeff Mathis",844,"Texas",6.64566929133858
+"350","Phil Gosselin",831,"Philadelphia",6.54330708661417
+"351","Aramis Garcia",805,"San Francisco",6.33858267716535
+"352","Stevie Wilkerson",770,"Baltimore",6.06299212598425
+"353","Buster Posey",769,"San Francisco",6.05511811023622
+"354","Isiah Kiner-Falefa",744,"Texas",5.85826771653543
+"355","Tomas Nido",726,"New York",5.71653543307087
+"356","Mike Freeman",695,"Cleveland",5.47244094488189
+"357","Kyle Garlick",693,"Los Angeles",5.45669291338583
+"358","Jared Walsh",689,"Los Angeles",5.4251968503937
+"359","Sam Travis",669,"Boston",5.26771653543307
+"360","Sean Rodriguez",662,"Philadelphia",5.21259842519685
+"361","Kevan Smith",659,"Los Angeles",5.18897637795276
+"362","Austin Romine",651,"New York",5.1259842519685
+"363","Kyle Farmer",637,"Cincinnati",5.01574803149606
+"364","Justin Bour",634,"Los Angeles",4.99212598425197
+"365","Yonder Alonso",613,"Chicago",4.82677165354331
+"366","Trevor Cahill",603,"Los Angeles",4.74803149606299
+"367","Nick Hundley",566,"Oakland",4.45669291338583
+"368","Hernan Perez",559,"Milwaukee",4.40157480314961
+"369","Andrew Knizner",545,"St. Louis",4.29133858267717
+"370","Michael A. Taylor",533,"Washington",4.19685039370079
+"371","Dustin Garneau",526,"Los Angeles",4.14173228346457
+"372","Rosell Herrera",483,"Miami",3.80314960629921
+"373","Cole Hamels",482,"Chicago",3.79527559055118
+"374","Adam Haseley",465,"Philadelphia",3.66141732283465
+"375","Pablo Lopez",464,"Miami",3.65354330708661
+"376","Joe Musgrove",459,"Pittsburgh",3.61417322834646
+"377","Ty France",457,"San Diego",3.59842519685039
+"378","Terrance Gore",450,"Kansas City",3.54330708661417
+"379","Austin Allen",426,"San Diego",3.35433070866142
+"380","Brandon Woodruff",393,"Milwaukee",3.09448818897638
+"381","Daniel Descalso",348,"Chicago",2.74015748031496
+"382","Max Fried",346,"Atlanta",2.7244094488189
+"383","Yu Darvish",335,"Chicago",2.63779527559055
+"384","Adam Wainwright",329,"St. Louis",2.59055118110236
+"385","Jake Arrieta",312,"Philadelphia",2.45669291338583
+"386","Clayton Kershaw",311,"Los Angeles",2.4488188976378
+"387","Taylor Ward",296,"Los Angeles",2.33070866141732
+"388","Peter Lambert",285,"Colorado",2.24409448818898
+"389","Stephen Strasburg",284,"Washington",2.23622047244094
+"390","Walker Buehler",271,"Los Angeles",2.13385826771654
+"391","Beau Taylor",260,"Oakland",2.04724409448819
+"392","Julio Urias",260,"Los Angeles",2.04724409448819
+"393","Kyle Hendricks",231,"Chicago",1.81889763779528
+"394","Tommy Edman",229,"St. Louis",1.80314960629921
+"395","Jason Vargas",228,"New York",1.79527559055118
+"396","Eric Lauer",211,"San Diego",1.66141732283465
+"397","Julio Teheran",197,"Atlanta",1.5511811023622
+"398","Steven Matz",181,"New York",1.4251968503937
+"399","Noah Syndergaard",165,"New York",1.2992125984252
+"400","Mike Soroka",146,"Atlanta",1.1496062992126
+"401","German Marquez",141,"Colorado",1.11023622047244
+"402","Jedd Gyorko",115,"St. Louis",0.905511811023622
+"403","Hyun-Jin Ryu",106,"Los Angeles",0.834645669291339
+"404","Zack Wheeler",97,"New York",0.763779527559055
+"405","Andrew McCutchen",87,"Philadelphia",0.68503937007874
+"406","Mitch Moreland",61,"Boston",0.480314960629921
+"407","Joey Lucchesi",54,"San Diego",0.425196850393701
+"408","Jon Lester",51,"Chicago",0.401574803149606
+"409","Nick Margevicius",39,"San Diego",0.307086614173228
+"410","Anibal Sanchez",38,"Washington",0.299212598425197
+"411","Jose Quintana",28,"Chicago",0.220472440944882
+"412","Tyler Beede",25,"San Francisco",0.196850393700787
+"413","Luis Castillo",23,"Cincinnati",0.181102362204724
+"414","Ranger Suarez",19,"Philadelphia",0.149606299212598
+"415","Tyler Mahle",19,"Cincinnati",0.149606299212598
+"416","Thairo Estrada",18,"New York",0.141732283464567
+"417","Jon Duplantier",15,"Arizona",0.118110236220472
+"418","Mike Foltynewicz",15,"Atlanta",0.118110236220472
+"419","Steven Brault",14,"Pittsburgh",0.110236220472441
+"420","Jack Flaherty",11,"St. Louis",0.0866141732283465
+"421","Michael Wacha",11,"St. Louis",0.0866141732283465
+"422","Jerad Eickhoff",10,"Philadelphia",0.078740157480315
+"423","Miles Mikolas",10,"St. Louis",0.078740157480315
+"424","Andrew Knapp",9,"Philadelphia",0.0708661417322835
+"425","Anthony DeSclafani",9,"Cincinnati",0.0708661417322835
+"426","Garrett Hampson",9,"Colorado",0.0708661417322835
+"427","Braden Bishop",8,"Seattle",0.062992125984252
+"428","Jacob deGrom",8,"New York",0.062992125984252
+"429","Kevin Gausman",8,"Atlanta",0.062992125984252
+"430","Chris Paddack",5,"San Diego",0.0393700787401575
+"431","Dylan Covey",5,"Chicago",0.0393700787401575
+"432","Robinson Cano",5,"New York",0.0393700787401575
+"433","Sonny Gray",5,"Cincinnati",0.0393700787401575
+"434","Zach Eflin",5,"Philadelphia",0.0393700787401575
+"435","Cal Quantrill",4,"San Diego",0.031496062992126
+"436","Patrick Corbin",3,"Washington",0.0236220472440945
+"437","Freddy Peralta",2,"Milwaukee",0.015748031496063
+"438","Kenta Maeda",2,"Los Angeles",0.015748031496063
+"439","Mitch Keller",2,"Pittsburgh",0.015748031496063
+"440","Rookie Davis",2,"Pittsburgh",0.015748031496063
+"441","Luis Perdomo",1,"San Diego",0.0078740157480315
+"442","Robbie Ray",1,"Arizona",0.0078740157480315
