@@ -1,443 +1,708 @@
-"","player_name","total_distance","Team","multiplier"
-"1","Marcus Semien",6948,"Oakland",54.7086614173228
-"2","Ketel Marte",6760,"Arizona",53.2283464566929
-"3","Domingo Santana",6733,"Seattle",53.0157480314961
-"4","Jorge Polanco",6709,"Minnesota",52.8267716535433
-"5","Freddie Freeman",6583,"Atlanta",51.8346456692913
-"6","Mookie Betts",6457,"Boston",50.8425196850394
-"7","Nick Markakis",6387,"Atlanta",50.2913385826772
-"8","Jay Bruce",6261,"Seattle,Philadelphia",49.2992125984252
-"9","Ozzie Albies",6244,"Atlanta",49.1653543307087
-"10","Josh Reddick",6228,"Houston",49.0393700787402
-"11","Khris Davis",6105,"Oakland",48.0708661417323
-"12","Elvis Andrus",6097,"Texas",48.007874015748
-"13","Corey Seager",6077,"Los Angeles",47.8503937007874
-"14","Tommy La Stella",6070,"Los Angeles",47.7952755905512
-"15","Andrew Benintendi",6007,"Boston",47.2992125984252
-"16","Ronald Acuna Jr.",5982,"Atlanta",47.1023622047244
-"17","Ramon Laureano",5979,"Oakland",47.0787401574803
-"18","Yuli Gurriel",5849,"Houston",46.0551181102362
-"19","Kyle Schwarber",5747,"Chicago",45.251968503937
-"20","Eduardo Escobar",5674,"Arizona",44.6771653543307
-"21","Kyle Seager",5669,"Seattle",44.6377952755905
-"22","Daniel Vogelbach",5540,"Seattle",43.6220472440945
-"23","Anthony Rendon",5479,"Washington",43.1417322834646
-"24","David Dahl",5455,"Colorado",42.9527559055118
-"25","Tony Kemp",5435,"Houston",42.7952755905512
-"26","Yandy Diaz",5421,"Tampa Bay",42.6850393700787
-"27","Jorge Soler",5296,"Kansas City",41.7007874015748
-"28","Stephen Piscotty",5260,"Oakland",41.4173228346457
-"29","Brandon Dixon",5220,"Detroit",41.1023622047244
-"30","Gio Urshela",5186,"New York",40.8346456692913
-"31","Gary Sanchez",5165,"New York",40.6692913385827
-"32","JaCoby Jones",5162,"Detroit",40.6456692913386
-"33","Nicholas Castellanos",5112,"Detroit",40.251968503937
-"34","Mallex Smith",5108,"Seattle",40.2204724409449
-"35","Starling Marte",5098,"Pittsburgh",40.1417322834646
-"36","Austin Riley",5058,"Atlanta",39.8267716535433
-"37","Mike Trout",5045,"Los Angeles",39.7244094488189
-"38","Mike Moustakas",4950,"Milwaukee",38.9763779527559
-"39","Jeff McNeil",4947,"New York",38.9527559055118
-"40","J.T. Realmuto",4943,"Philadelphia",38.9212598425197
-"41","Asdrubal Cabrera",4941,"Texas",38.9055118110236
-"42","Anthony Rizzo",4828,"Chicago",38.0157480314961
-"43","Edwin Encarnacion",4802,"Seattle",37.8110236220472
-"44","Brandon Lowe",4756,"Tampa Bay",37.4488188976378
-"45","Yasmani Grandal",4746,"Milwaukee",37.3700787401575
-"46","Kole Calhoun",4741,"Los Angeles",37.3307086614173
-"47","Nomar Mazara",4724,"Texas",37.1968503937008
-"48","Scott Kingery",4707,"Philadelphia",37.0629921259843
-"49","Xander Bogaerts",4694,"Boston",36.9606299212598
-"50","DJ LeMahieu",4629,"New York",36.4488188976378
-"51","Carlos Santana",4628,"Cleveland",36.4409448818898
-"52","Willy Adames",4565,"Tampa Bay",35.9448818897638
-"53","Francisco Lindor",4555,"Cleveland",35.8661417322835
-"54","David Peralta",4530,"Arizona",35.6692913385827
-"55","Jose Ramirez",4505,"Cleveland",35.4724409448819
-"56","Joe Panik",4503,"San Francisco",35.4566929133858
-"57","Bryce Harper",4484,"Philadelphia",35.3070866141732
-"58","Tim Anderson",4483,"Chicago",35.2992125984252
-"59","Austin Meadows",4460,"Tampa Bay",35.1181102362205
-"60","Enrique Hernandez",4460,"Los Angeles",35.1181102362205
-"61","Luis Rengifo",4445,"Los Angeles",35
-"62","Aaron Hicks",4440,"New York",34.9606299212598
-"63","Amed Rosario",4434,"New York",34.9133858267717
-"64","Eddie Rosario",4431,"Minnesota",34.8897637795276
-"65","Marcell Ozuna",4408,"St. Louis",34.7086614173228
-"66","Justin Turner",4372,"Los Angeles",34.4251968503937
-"67","Trea Turner",4353,"Washington",34.2755905511811
-"68","Whit Merrifield",4311,"Kansas City",33.9448818897638
-"69","Paul Goldschmidt",4310,"St. Louis",33.9370078740157
-"70","Jean Segura",4306,"Philadelphia",33.9055118110236
-"71","Alex Bregman",4285,"Houston",33.740157480315
-"72","Javier Baez",4224,"Chicago",33.259842519685
-"73","Christin Stewart",4223,"Detroit",33.251968503937
-"74","Cody Bellinger",4221,"Los Angeles",33.2362204724409
-"75","Brian Dozier",4182,"Washington",32.9291338582677
-"76","Oscar Mercado",4180,"Cleveland",32.9133858267717
-"77","Matt Olson",4163,"Oakland",32.7795275590551
-"78","Ronald Guzman",4153,"Texas",32.7007874015748
-"79","Miguel Rojas",4146,"Miami",32.6456692913386
-"80","Ryan Braun",4146,"Milwaukee",32.6456692913386
-"81","Rhys Hoskins",4142,"Philadelphia",32.6141732283465
-"82","Dansby Swanson",4113,"Atlanta",32.3858267716535
-"83","Miguel Cabrera",4109,"Detroit",32.3543307086614
-"84","Max Kepler",4086,"Minnesota",32.1732283464567
-"85","Rafael Devers",4081,"Boston",32.1338582677165
-"86","Franmil Reyes",4072,"San Diego",32.0629921259843
-"87","Alex Gordon",4070,"Kansas City",32.0472440944882
-"88","Yoan Moncada",4054,"Chicago",31.9212598425197
-"89","Albert Pujols",4031,"Los Angeles",31.740157480315
-"90","Ian Kinsler",4028,"San Diego",31.7165354330709
-"91","J.D. Martinez",4024,"Boston",31.6850393700787
-"92","Adam Eaton",4014,"Washington",31.6062992125984
-"93","Howie Kendrick",4014,"Washington",31.6062992125984
-"94","Kevin Kiermaier",4010,"Tampa Bay",31.5748031496063
-"95","Matt Chapman",4009,"Oakland",31.5669291338583
-"96","Clint Frazier",3994,"New York",31.4488188976378
-"97","Christian Yelich",3982,"Milwaukee",31.3543307086614
-"98","Hunter Pence",3961,"Texas",31.1889763779528
-"99","Josh Phegley",3947,"Oakland",31.0787401574803
-"100","Josh Bell",3942,"Pittsburgh",31.0393700787402
-"101","Kevin Pillar",3929,"San Francisco,Toronto",30.9370078740157
-"102","Rougned Odor",3927,"Texas",30.9212598425197
-"103","Lourdes Gurriel Jr.",3914,"Toronto",30.8188976377953
-"104","Jose Abreu",3911,"Chicago",30.7952755905512
-"105","Todd Frazier",3901,"New York",30.7165354330709
-"106","Brett Gardner",3886,"New York",30.5984251968504
-"107","Kris Bryant",3851,"Chicago",30.3228346456693
-"108","Jason Heyward",3836,"Chicago",30.2047244094488
-"109","Dylan Moore",3830,"Seattle",30.1574803149606
-"110","Josh Donaldson",3776,"Atlanta",29.7322834645669
-"111","Nelson Cruz",3759,"Minnesota",29.5984251968504
-"112","David Bote",3753,"Chicago",29.5511811023622
-"113","C.J. Cron",3740,"Minnesota",29.4488188976378
-"114","Avisail Garcia",3710,"Tampa Bay",29.2125984251969
-"115","Daniel Murphy",3708,"Colorado",29.1968503937008
-"116","Yasiel Puig",3667,"Cincinnati",28.8740157480315
-"117","Hanser Alberto",3649,"Baltimore",28.7322834645669
-"118","Vladimir Guerrero Jr.",3637,"Toronto",28.6377952755906
-"119","Robinson Chirinos",3619,"Houston",28.496062992126
-"120","Trevor Story",3615,"Colorado",28.4645669291339
-"121","Christian Walker",3601,"Arizona",28.3543307086614
-"122","Harrison Bader",3601,"St. Louis",28.3543307086614
-"123","Omar Narvaez",3546,"Seattle",27.9212598425197
-"124","Randal Grichuk",3545,"Toronto",27.9133858267717
-"125","Evan Longoria",3539,"San Francisco",27.8661417322835
-"126","Juan Soto",3521,"Washington",27.7244094488189
-"127","Nick Senzel",3510,"Cincinnati",27.6377952755906
-"128","Brian Anderson",3502,"Miami",27.5748031496063
-"129","Jurickson Profar",3490,"Oakland",27.4803149606299
-"130","Trey Mancini",3475,"Baltimore",27.3622047244094
-"131","Eugenio Suarez",3454,"Cincinnati",27.1968503937008
-"132","Victor Robles",3454,"Washington",27.1968503937008
-"133","Leury Garcia",3425,"Chicago",26.9685039370079
-"134","Colin Moran",3402,"Pittsburgh",26.7874015748031
-"135","Kevin Newman",3398,"Pittsburgh",26.755905511811
-"136","Pete Alonso",3390,"New York",26.6929133858268
-"137","Jarrod Dyson",3388,"Arizona",26.6771653543307
-"138","Ji-Man Choi",3385,"Tampa Bay",26.6535433070866
-"139","Starlin Castro",3384,"Miami",26.6456692913386
-"140","Cavan Biggio",3349,"Toronto",26.3700787401575
-"141","Max Muncy",3348,"Los Angeles",26.3622047244094
-"142","Bryan Reynolds",3345,"Pittsburgh",26.3385826771654
-"143","Jonathan Lucroy",3329,"Los Angeles",26.2125984251969
-"144","Nolan Arenado",3314,"Colorado",26.0944881889764
-"145","Eric Hosmer",3311,"San Diego",26.0708661417323
-"146","Michael Conforto",3310,"New York",26.0629921259843
-"147","David Fletcher",3299,"Los Angeles",25.9763779527559
-"148","Hunter Renfroe",3298,"San Diego",25.9685039370079
-"149","Michael Brantley",3278,"Houston",25.8110236220472
-"150","Roberto Perez",3277,"Cleveland",25.8031496062992
-"151","Curtis Granderson",3251,"Miami",25.5984251968504
-"152","Jack Mayfield",3241,"Houston",25.5196850393701
-"153","Teoscar Hernandez",3197,"Toronto",25.1732283464567
-"154","Byron Buxton",3182,"Minnesota",25.0551181102362
-"155","Cesar Hernandez",3150,"Philadelphia",24.8031496062992
-"156","Eric Thames",3147,"Milwaukee",24.7795275590551
-"157","Greg Garcia",3143,"San Diego",24.748031496063
-"158","Jackie Bradley Jr.",3139,"Boston",24.7165354330709
-"159","Yan Gomes",3114,"Washington",24.5196850393701
-"160","Justin Smoak",3108,"Toronto",24.4724409448819
-"161","Adam Frazier",3105,"Pittsburgh",24.4488188976378
-"162","Stephen Vogt",3105,"San Francisco",24.4488188976378
-"163","Ildemaro Vargas",3094,"Arizona",24.3622047244094
-"164","Joey Votto",3094,"Cincinnati",24.3622047244094
-"165","Brian Goodwin",3049,"Los Angeles",24.007874015748
-"166","Tom Murphy",3039,"Seattle",23.9291338582677
-"167","Marwin Gonzalez",3037,"Minnesota",23.9133858267717
-"168","Raimel Tapia",3032,"Colorado",23.8740157480315
-"169","Jake Marisnick",3009,"Houston",23.6929133858268
-"170","Chris Taylor",2977,"Los Angeles",23.4409448818898
-"171","Jonathan Schoop",2974,"Minnesota",23.4173228346457
-"172","Cameron Maybin",2951,"New York",23.2362204724409
-"173","Delino DeShields",2925,"Texas",23.0314960629921
-"174","Cheslor Cuthbert",2923,"Kansas City",23.0157480314961
-"175","Miguel Sano",2919,"Minnesota",22.9842519685039
-"176","J.D. Davis",2895,"New York",22.7952755905512
-"177","Danny Santana",2882,"Texas",22.6929133858268
-"178","Manny Machado",2870,"San Diego",22.5984251968504
-"179","Dexter Fowler",2867,"St. Louis",22.5748031496063
-"180","Yolmer Sanchez",2867,"Chicago",22.5748031496063
-"181","Garrett Cooper",2857,"Miami",22.496062992126
-"182","Tyler White",2852,"Houston",22.4566929133858
-"183","Christian Vazquez",2834,"Boston",22.3149606299213
-"184","Welington Castillo",2804,"Chicago",22.0787401574803
-"185","Lorenzo Cain",2794,"Milwaukee",22
-"186","Robbie Grossman",2784,"Oakland",21.9212598425197
-"187","Kolten Wong",2766,"St. Louis",21.7795275590551
-"188","Orlando Arcia",2751,"Milwaukee",21.6614173228346
-"189","Harold Ramirez",2730,"Miami",21.496062992126
-"190","Matt Carpenter",2708,"St. Louis",21.3228346456693
-"191","Adalberto Mondesi",2705,"Kansas City",21.2992125984252
-"192","Brian McCann",2701,"Atlanta",21.2677165354331
-"193","Josh Naylor",2683,"San Diego",21.1259842519685
-"194","Brandon Belt",2681,"San Francisco",21.1102362204724
-"195","Kurt Suzuki",2659,"Washington",20.9370078740157
-"196","Derek Fisher",2655,"Houston",20.9055118110236
-"197","David Freese",2647,"Los Angeles",20.8425196850394
-"198","Eric Sogard",2647,"Toronto",20.8425196850394
-"199","Charlie Blackmon",2641,"Colorado",20.7952755905512
-"200","Carlos Gomez",2611,"New York",20.5590551181102
-"201","Travis Shaw",2555,"Milwaukee",20.1181102362205
-"202","Shed Long",2554,"Seattle",20.1102362204724
-"203","Mike Yastrzemski",2545,"San Francisco",20.0393700787402
-"204","Travis d'Arnaud",2538,"Tampa Bay,New York,Los Angeles",19.9842519685039
-"205","James McCann",2526,"Chicago",19.8897637795276
-"206","Wilson Ramos",2484,"New York",19.5590551181102
-"207","Carlos Gonzalez",2465,"Cleveland,Chicago",19.4094488188976
-"208","Jesus Aguilar",2463,"Milwaukee",19.3937007874016
-"209","Donovan Solano",2458,"San Francisco",19.3543307086614
-"210","Brandon Crawford",2457,"San Francisco",19.3464566929134
-"211","Tommy Pham",2441,"Tampa Bay",19.2204724409449
-"212","Christian Arroyo",2434,"Tampa Bay",19.1653543307087
-"213","Ian Desmond",2427,"Colorado",19.1102362204724
-"214","Martin Prado",2426,"Miami",19.1023622047244
-"215","Pedro Severino",2424,"Baltimore",19.0866141732283
-"216","Shohei Ohtani",2417,"Los Angeles",19.0314960629921
-"217","Jonathan Villar",2416,"Baltimore",19.0236220472441
-"218","Mike Zunino",2395,"Tampa Bay",18.8582677165354
-"219","Ronny Rodriguez",2386,"Detroit",18.7874015748031
-"220","Tim Locastro",2385,"Arizona",18.7795275590551
-"221","Steven Duggar",2357,"San Francisco",18.5590551181102
-"222","Guillermo Heredia",2343,"Tampa Bay",18.4488188976378
-"223","Albert Almora Jr.",2326,NA,18.3149606299213
-"224","Austin Hedges",2321,"San Diego",18.2755905511811
-"225","Mark Canha",2311,"Oakland",18.1968503937008
-"226","Shin-Soo Choo",2289,"Texas",18.0236220472441
-"227","Jason Kipnis",2287,"Cleveland",18.007874015748
-"228","Carson Kelly",2283,"Arizona",17.9763779527559
-"229","Elias Diaz",2271,"Pittsburgh",17.8818897637795
-"230","Mac Williamson",2268,"San Francisco,Seattle",17.8582677165354
-"231","Melky Cabrera",2267,"Pittsburgh",17.8503937007874
-"232","Austin Dean",2263,"Miami",17.8188976377953
-"233","Eloy Jimenez",2242,"Chicago",17.6535433070866
-"234","Rowdy Tellez",2207,"Toronto",17.3779527559055
-"235","Joc Pederson",2188,"Los Angeles",17.2283464566929
-"236","Nick Ahmed",2185,"Arizona",17.2047244094488
-"237","JT Riddle",2156,"Miami",16.9763779527559
-"238","Jake Bauers",2127,"Cleveland",16.748031496063
-"239","Jose Peraza",2079,"Cincinnati",16.3700787401575
-"240","Alex Verdugo",2078,"Los Angeles",16.3622047244094
-"241","Tyler Naquin",2074,"Cleveland",16.3307086614173
-"242","Kendrys Morales",2068,"New York,Oakland",16.2834645669291
-"243","Derek Dietrich",2067,"Cincinnati",16.2755905511811
-"244","Ryan McMahon",2067,"Colorado",16.2755905511811
-"245","Luke Maile",2046,"Toronto",16.1102362204724
-"246","Paul DeJong",2014,"St. Louis",15.8582677165354
-"247","Willson Contreras",2011,"Chicago",15.8346456692913
-"248","Dawel Lugo",1996,"Detroit",15.7165354330709
-"249","Michael Chavis",1996,"Boston",15.7165354330709
-"250","Harold Castro",1993,"Detroit",15.6929133858268
-"251","Freddy Galvis",1992,"Toronto",15.6850393700787
-"252","Rio Ruiz",1967,"Baltimore",15.488188976378
-"253","Kevin Cron",1955,"Arizona",15.3937007874016
-"254","Gleyber Torres",1936,"New York",15.244094488189
-"255","Danny Jansen",1934,"Toronto",15.2283464566929
-"256","Jung Ho Kang",1933,"Pittsburgh",15.2204724409449
-"257","Jose Iglesias",1931,"Cincinnati",15.2047244094488
-"258","Nicky Lopez",1914,"Kansas City",15.0708661417323
-"259","Wil Myers",1908,"San Diego",15.0236220472441
-"260","Didi Gregorius",1902,"New York",14.9763779527559
-"261","Leonys Martin",1902,"Cleveland",14.9763779527559
-"262","Wilfredo Tovar",1886,"Los Angeles",14.8503937007874
-"263","Logan Forsythe",1864,"Texas",14.6771653543307
-"264","Adam Jones",1850,"Arizona",14.5669291338583
-"265","Tony Wolters",1832,"Colorado",14.4251968503937
-"266","Chris Davis",1820,"Baltimore",14.3307086614173
-"267","Luke Voit",1809,"New York",14.244094488189
-"268","Chance Sisco",1783,"Baltimore",14.0393700787402
-"269","Jordan Luplow",1772,"Cleveland",13.9527559055118
-"270","Gregory Polanco",1764,"Pittsburgh",13.8897637795276
-"271","Daniel Robertson",1752,"Tampa Bay",13.7952755905512
-"272","Brock Holt",1743,"Boston",13.7244094488189
-"273","Addison Russell",1729,"Chicago",13.6141732283465
-"274","Ben Gamel",1716,"Milwaukee",13.511811023622
-"275","Pablo Sandoval",1715,"San Francisco",13.503937007874
-"276","Mitch Garver",1712,"Minnesota",13.4803149606299
-"277","Maikel Franco",1710,"Philadelphia",13.4645669291339
-"278","Eduardo Nunez",1709,"Boston",13.4566929133858
-"279","Myles Straw",1705,"Houston",13.4251968503937
-"280","Victor Caratini",1700,"Chicago",13.3858267716535
-"281","Gordon Beckham",1698,"Detroit",13.3700787401575
-"282","Corey Dickerson",1688,"Pittsburgh",13.2913385826772
-"283","Russell Martin",1672,"Los Angeles",13.1653543307087
-"284","Chad Pinder",1666,"Oakland",13.1181102362205
-"285","John Hicks",1659,"Detroit",13.0629921259843
-"286","Billy Hamilton",1655,"Kansas City",13.0314960629921
-"287","Jesse Winker",1637,"Cincinnati",12.8897637795276
-"288","Kevin Plawecki",1633,"Cleveland",12.8582677165354
-"289","Sandy Leon",1622,"Boston",12.7716535433071
-"290","Gerardo Parra",1596,"San Francisco,Washington",12.5669291338583
-"291","Anthony Santander",1595,"Baltimore",12.5590551181102
-"292","Curt Casali",1582,"Cincinnati",12.4566929133858
-"293","Matt Wieters",1564,"St. Louis",12.3149606299213
-"294","Niko Goodrum",1560,"Detroit",12.2834645669291
-"295","Adeiny Hechavarria",1547,"New York",12.1811023622047
-"296","Jacob Stallings",1500,"Pittsburgh",11.8110236220472
-"297","Dee Gordon",1460,"Seattle",11.496062992126
-"298","Matt Adams",1436,"Washington",11.3070866141732
-"299","Brendan Rodgers",1425,"Colorado",11.2204724409449
-"300","Tim Federowicz",1412,"Texas",11.1181102362205
-"301","Keon Broxton",1408,"Baltimore,New York",11.0866141732283
-"302","Tucker Barnhart",1406,"Cincinnati",11.0708661417323
-"303","Fernando Tatis Jr.",1393,"San Diego",10.9685039370079
-"304","Tyler Austin",1365,"Minnesota,San Francisco",10.748031496063
-"305","Richie Martin",1359,"Baltimore",10.7007874015748
-"306","Dominic Smith",1351,"New York",10.6377952755906
-"307","Renato Nunez",1351,"Baltimore",10.6377952755906
-"308","Charlie Tilson",1349,"Chicago",10.6220472440945
-"309","Tyler Flowers",1349,"Atlanta",10.6220472440945
-"310","Jason Castro",1345,"Minnesota",10.5905511811024
-"311","Josh VanMeter",1326,"Cincinnati",10.4409448818898
-"312","Yordan Alvarez",1303,"Houston",10.259842519685
-"313","Cesar Puello",1259,"Los Angeles",9.91338582677165
-"314","Jorge Alfaro",1241,"Miami",9.77165354330709
-"315","Jose Rondon",1195,"Chicago",9.40944881889764
-"316","Mitch Haniger",1190,"Seattle",9.37007874015748
-"317","Alex Avila",1185,"Arizona",9.33070866141732
-"318","Jose Martinez",1144,"St. Louis",9.00787401574803
-"319","Manny Pina",1131,"Milwaukee",8.90551181102362
-"320","Yairo Munoz",1080,"St. Louis",8.50393700787402
-"321","Mark Reynolds",1074,"Colorado",8.45669291338583
-"322","Chris Iannetta",1071,"Colorado",8.43307086614173
-"323","Manuel Margot",1043,"San Diego",8.21259842519685
-"324","Tim Beckham",1041,"Seattle",8.19685039370079
-"325","Johan Camargo",1031,"Atlanta",8.11811023622047
-"326","Brandon Drury",1006,"Toronto",7.92125984251969
-"327","Marco Hernandez",1006,"Boston",7.92125984251969
-"328","Garrett Stubbs",1002,"Houston",7.88976377952756
-"329","Willians Astudillo",997,"Minnesota",7.8503937007874
-"330","Austin Barnes",990,"Los Angeles",7.79527559055118
-"331","DJ Stewart",989,"Baltimore",7.78740157480315
-"332","Ryan Cordell",983,"Chicago",7.74015748031496
-"333","Will Smith",981,"Los Angeles",7.7244094488189
-"334","Ryan O'Hearn",980,"Kansas City",7.71653543307087
-"335","Grayson Greiner",968,"Detroit",7.62204724409449
-"336","Yadier Molina",961,"St. Louis",7.56692913385827
-"337","Dwight Smith Jr",956,NA,7.52755905511811
-"338","Bryan Holaday",949,"Miami",7.47244094488189
-"339","Jose Osuna",948,"Pittsburgh",7.46456692913386
-"340","Kelvin Gutierrez",945,"Kansas City",7.44094488188976
-"341","Cole Tucker",943,"Pittsburgh",7.4251968503937
-"342","Juan Lagares",925,"New York",7.28346456692913
-"343","Charlie Culberson",921,"Atlanta",7.25196850393701
-"344","Matt Joyce",918,NA,7.22834645669291
-"345","Ehire Adrianza",887,"Minnesota",6.98425196850394
-"346","Nick Williams",876,"Philadelphia",6.89763779527559
-"347","Cam Gallagher",872,"Kansas City",6.86614173228346
-"348","Martin Maldonado",854,"Kansas City",6.7244094488189
-"349","Jeff Mathis",844,"Texas",6.64566929133858
-"350","Phil Gosselin",831,"Philadelphia",6.54330708661417
-"351","Aramis Garcia",805,"San Francisco",6.33858267716535
-"352","Stevie Wilkerson",770,"Baltimore",6.06299212598425
-"353","Buster Posey",769,"San Francisco",6.05511811023622
-"354","Isiah Kiner-Falefa",744,"Texas",5.85826771653543
-"355","Tomas Nido",726,"New York",5.71653543307087
-"356","Mike Freeman",695,"Cleveland",5.47244094488189
-"357","Kyle Garlick",693,"Los Angeles",5.45669291338583
-"358","Jared Walsh",689,"Los Angeles",5.4251968503937
-"359","Sam Travis",669,"Boston",5.26771653543307
-"360","Sean Rodriguez",662,"Philadelphia",5.21259842519685
-"361","Kevan Smith",659,"Los Angeles",5.18897637795276
-"362","Austin Romine",651,"New York",5.1259842519685
-"363","Kyle Farmer",637,"Cincinnati",5.01574803149606
-"364","Justin Bour",634,"Los Angeles",4.99212598425197
-"365","Yonder Alonso",613,"Chicago",4.82677165354331
-"366","Trevor Cahill",603,"Los Angeles",4.74803149606299
-"367","Nick Hundley",566,"Oakland",4.45669291338583
-"368","Hernan Perez",559,"Milwaukee",4.40157480314961
-"369","Andrew Knizner",545,"St. Louis",4.29133858267717
-"370","Michael A. Taylor",533,"Washington",4.19685039370079
-"371","Dustin Garneau",526,"Los Angeles",4.14173228346457
-"372","Rosell Herrera",483,"Miami",3.80314960629921
-"373","Cole Hamels",482,"Chicago",3.79527559055118
-"374","Adam Haseley",465,"Philadelphia",3.66141732283465
-"375","Pablo Lopez",464,"Miami",3.65354330708661
-"376","Joe Musgrove",459,"Pittsburgh",3.61417322834646
-"377","Ty France",457,"San Diego",3.59842519685039
-"378","Terrance Gore",450,"Kansas City",3.54330708661417
-"379","Austin Allen",426,"San Diego",3.35433070866142
-"380","Brandon Woodruff",393,"Milwaukee",3.09448818897638
-"381","Daniel Descalso",348,"Chicago",2.74015748031496
-"382","Max Fried",346,"Atlanta",2.7244094488189
-"383","Yu Darvish",335,"Chicago",2.63779527559055
-"384","Adam Wainwright",329,"St. Louis",2.59055118110236
-"385","Jake Arrieta",312,"Philadelphia",2.45669291338583
-"386","Clayton Kershaw",311,"Los Angeles",2.4488188976378
-"387","Taylor Ward",296,"Los Angeles",2.33070866141732
-"388","Peter Lambert",285,"Colorado",2.24409448818898
-"389","Stephen Strasburg",284,"Washington",2.23622047244094
-"390","Walker Buehler",271,"Los Angeles",2.13385826771654
-"391","Beau Taylor",260,"Oakland",2.04724409448819
-"392","Julio Urias",260,"Los Angeles",2.04724409448819
-"393","Kyle Hendricks",231,"Chicago",1.81889763779528
-"394","Tommy Edman",229,"St. Louis",1.80314960629921
-"395","Jason Vargas",228,"New York",1.79527559055118
-"396","Eric Lauer",211,"San Diego",1.66141732283465
-"397","Julio Teheran",197,"Atlanta",1.5511811023622
-"398","Steven Matz",181,"New York",1.4251968503937
-"399","Noah Syndergaard",165,"New York",1.2992125984252
-"400","Mike Soroka",146,"Atlanta",1.1496062992126
-"401","German Marquez",141,"Colorado",1.11023622047244
-"402","Jedd Gyorko",115,"St. Louis",0.905511811023622
-"403","Hyun-Jin Ryu",106,"Los Angeles",0.834645669291339
-"404","Zack Wheeler",97,"New York",0.763779527559055
-"405","Andrew McCutchen",87,"Philadelphia",0.68503937007874
-"406","Mitch Moreland",61,"Boston",0.480314960629921
-"407","Joey Lucchesi",54,"San Diego",0.425196850393701
-"408","Jon Lester",51,"Chicago",0.401574803149606
-"409","Nick Margevicius",39,"San Diego",0.307086614173228
-"410","Anibal Sanchez",38,"Washington",0.299212598425197
-"411","Jose Quintana",28,"Chicago",0.220472440944882
-"412","Tyler Beede",25,"San Francisco",0.196850393700787
-"413","Luis Castillo",23,"Cincinnati",0.181102362204724
-"414","Ranger Suarez",19,"Philadelphia",0.149606299212598
-"415","Tyler Mahle",19,"Cincinnati",0.149606299212598
-"416","Thairo Estrada",18,"New York",0.141732283464567
-"417","Jon Duplantier",15,"Arizona",0.118110236220472
-"418","Mike Foltynewicz",15,"Atlanta",0.118110236220472
-"419","Steven Brault",14,"Pittsburgh",0.110236220472441
-"420","Jack Flaherty",11,"St. Louis",0.0866141732283465
-"421","Michael Wacha",11,"St. Louis",0.0866141732283465
-"422","Jerad Eickhoff",10,"Philadelphia",0.078740157480315
-"423","Miles Mikolas",10,"St. Louis",0.078740157480315
-"424","Andrew Knapp",9,"Philadelphia",0.0708661417322835
-"425","Anthony DeSclafani",9,"Cincinnati",0.0708661417322835
-"426","Garrett Hampson",9,"Colorado",0.0708661417322835
-"427","Braden Bishop",8,"Seattle",0.062992125984252
-"428","Jacob deGrom",8,"New York",0.062992125984252
-"429","Kevin Gausman",8,"Atlanta",0.062992125984252
-"430","Chris Paddack",5,"San Diego",0.0393700787401575
-"431","Dylan Covey",5,"Chicago",0.0393700787401575
-"432","Robinson Cano",5,"New York",0.0393700787401575
-"433","Sonny Gray",5,"Cincinnati",0.0393700787401575
-"434","Zach Eflin",5,"Philadelphia",0.0393700787401575
-"435","Cal Quantrill",4,"San Diego",0.031496062992126
-"436","Patrick Corbin",3,"Washington",0.0236220472440945
-"437","Freddy Peralta",2,"Milwaukee",0.015748031496063
-"438","Kenta Maeda",2,"Los Angeles",0.015748031496063
-"439","Mitch Keller",2,"Pittsburgh",0.015748031496063
-"440","Rookie Davis",2,"Pittsburgh",0.015748031496063
-"441","Luis Perdomo",1,"San Diego",0.0078740157480315
-"442","Robbie Ray",1,"Arizona",0.0078740157480315
+player_name,total_distance,multiplier,Team
+Jorge Polanco,61972,487.968503937008,Minnesota
+Eduardo Escobar,60118,473.370078740158,Arizona
+Freddie Freeman,58403,459.866141732284,Atlanta
+Whit Merrifield,57513,452.858267716535,Kansas City
+Nolan Arenado,57104,449.637795275591,Colorado
+Ronald Acuna Jr.,56778,447.070866141732,Atlanta
+Rafael Devers,56731,446.700787401575,Boston
+Andrew Benintendi,56559,445.346456692913,Boston
+Marcus Semien,56303,443.330708661417,Oakland
+Josh Bell,56133,441.992125984252,Pittsburgh
+Dansby Swanson,55780,439.212598425197,Atlanta
+Ozzie Albies,55088,433.763779527559,Atlanta
+Mike Moustakas,54901,432.291338582677,Milwaukee
+Mike Trout,54792,431.433070866142,Los Angeles
+Nicholas Castellanos,54489,429.047244094488,Detroit
+Francisco Lindor,54262,427.259842519685,Cleveland
+Jose Abreu,53997,425.173228346457,Chicago
+Max Kepler,53686,422.724409448819,Minnesota
+Anthony Rendon,53550,421.653543307087,Washington
+Jose Ramirez,53181,418.748031496063,Cleveland
+Mookie Betts,52463,413.094488188976,Boston
+Bryce Harper,51633,406.55905511811,Philadelphia
+Nick Markakis,51024,401.763779527559,Atlanta
+Paul DeJong,50695,399.173228346457,St. Louis
+Ketel Marte,50512,397.732283464567,Arizona
+Rhys Hoskins,50507,397.692913385827,Philadelphia
+Adam Frazier,50284,395.937007874016,Pittsburgh
+Cody Bellinger,49676,391.149606299213,Los Angeles
+Kris Bryant,49561,390.244094488189,Chicago
+Justin Turner,49460,389.448818897638,Los Angeles
+C.J. Cron,49272,387.968503937008,Minnesota
+Paul Goldschmidt,49126,386.818897637795,St. Louis
+Alex Bregman,48937,385.330708661417,Houston
+Joey Votto,48888,384.944881889764,Cincinnati
+Freddy Galvis,48594,382.629921259843,Toronto
+Kevin Pillar,48559,382.354330708661,San Francisco
+Josh Reddick,48451,381.503937007874,Houston
+David Dahl,48302,380.330708661417,Colorado
+Matt Olson,48192,379.464566929134,Oakland
+Rougned Odor,48046,378.314960629921,Texas
+Matt Chapman,48013,378.055118110236,Oakland
+Manny Machado,47829,376.606299212598,San Diego
+Kyle Schwarber,47583,374.669291338583,Chicago
+Adam Eaton,47459,373.692913385827,Washington
+J.D. Martinez,47378,373.055118110236,Boston
+Yasmani Grandal,47143,371.204724409449,Milwaukee
+Anthony Rizzo,46935,369.566929133858,Chicago
+Joe Panik,46423,365.535433070866,San Francisco
+Ramon Laureano,46119,363.141732283465,Oakland
+Eddie Rosario,46110,363.070866141732,Minnesota
+Jeff McNeil,45986,362.094488188976,New York
+Jean Segura,45867,361.157480314961,Philadelphia
+Niko Goodrum,45850,361.023622047244,Detroit
+Brandon Belt,45484,358.141732283465,San Francisco
+Yuli Gurriel,45463,357.976377952756,Houston
+Starling Marte,45440,357.795275590551,Pittsburgh
+DJ LeMahieu,45436,357.763779527559,New York
+Jason Kipnis,45337,356.984251968504,Cleveland
+Eugenio Suarez,45259,356.370078740157,Cincinnati
+Gleyber Torres,45184,355.779527559055,New York
+Daniel Murphy,45099,355.110236220472,Colorado
+Charlie Blackmon,45019,354.48031496063,Colorado
+Domingo Santana,44977,354.149606299213,Seattle
+Max Muncy,44833,353.015748031496,Los Angeles
+Xander Bogaerts,44746,352.330708661417,Boston
+Nomar Mazara,44463,350.102362204724,Texas
+Starlin Castro,44013,346.55905511811,Miami
+Hunter Renfroe,43914,345.779527559055,San Diego
+Omar Narvaez,43763,344.590551181102,Seattle
+Jorge Soler,43537,342.811023622047,Kansas City
+Jay Bruce,43532,342.771653543307,Philadelphia
+Trevor Story,43312,341.03937007874,Colorado
+Elvis Andrus,43023,338.763779527559,Texas
+Kevin Newman,43016,338.708661417323,Pittsburgh
+Enrique Hernandez,42734,336.488188976378,Los Angeles
+Edwin Encarnacion,42728,336.44094488189,New York
+Alex Verdugo,42545,335,Los Angeles
+Cesar Hernandez,42466,334.377952755906,Philadelphia
+Michael Brantley,42457,334.307086614173,Houston
+Christian Walker,42452,334.267716535433,Arizona
+Nick Senzel,42322,333.244094488189,Cincinnati
+Randal Grichuk,42216,332.409448818898,Toronto
+Amed Rosario,42194,332.236220472441,New York
+Eric Sogard,41938,330.220472440945,Toronto
+J.T. Realmuto,41797,329.110236220472,Philadelphia
+Pete Alonso,41702,328.362204724409,New York
+Trey Mancini,41635,327.834645669291,Baltimore
+Bryan Reynolds,41603,327.582677165354,Pittsburgh
+Yasiel Puig,41546,327.133858267717,Cincinnati
+Javier Baez,41487,326.669291338583,Chicago
+Jose Iglesias,41378,325.811023622047,Cincinnati
+Carlos Santana,41312,325.291338582677,Cleveland
+Marcell Ozuna,41174,324.204724409449,St. Louis
+Asdrubal Cabrera,40995,322.795275590551,Texas
+Alex Gordon,40992,322.771653543307,Kansas City
+Shin-Soo Choo,40798,321.244094488189,Texas
+Gio Urshela,40681,320.322834645669,New York
+Josh Donaldson,40598,319.669291338583,Atlanta
+Michael Chavis,40496,318.866141732283,Boston
+Tommy La Stella,40475,318.700787401575,Los Angeles
+Gary Sanchez,40466,318.629921259843,New York
+Renato Nunez,40387,318.007874015748,Baltimore
+Daniel Vogelbach,40380,317.952755905512,Seattle
+Christian Yelich,40353,317.740157480315,Milwaukee
+Eric Hosmer,40285,317.204724409449,San Diego
+Christian Vazquez,40238,316.834645669291,Boston
+Austin Meadows,40170,316.299212598425,Tampa Bay
+Victor Robles,40080,315.590551181102,Washington
+David Fletcher,40079,315.582677165354,Los Angeles
+Chris Taylor,39860,313.858267716535,Los Angeles
+Brian Dozier,39800,313.385826771654,Washington
+Lorenzo Cain,39706,312.645669291339,Milwaukee
+Adam Jones,39523,311.204724409449,Arizona
+Kole Calhoun,39479,310.858267716535,Los Angeles
+Miguel Rojas,39354,309.874015748032,Miami
+Jonathan Schoop,39183,308.527559055118,Minnesota
+Evan Longoria,39026,307.291338582677,San Francisco
+Tommy Pham,38973,306.874015748031,Tampa Bay
+Jonathan Villar,38792,305.448818897638,Baltimore
+Brandon Lowe,38505,303.188976377953,Tampa Bay
+Kolten Wong,38407,302.417322834646,St. Louis
+Jason Heyward,38360,302.047244094488,Chicago
+Juan Soto,38223,300.968503937008,Washington
+Matt Carpenter,37969,298.968503937008,St. Louis
+Colin Moran,37957,298.874015748032,Pittsburgh
+Brandon Crawford,37872,298.204724409449,San Francisco
+Franmil Reyes,37850,298.031496062992,San Diego
+Jurickson Profar,37678,296.677165354331,Oakland
+Willy Adames,37648,296.44094488189,Tampa Bay
+Miguel Cabrera,37436,294.771653543307,Detroit
+Raimel Tapia,37405,294.527559055118,Colorado
+Nick Ahmed,37380,294.330708661417,Arizona
+Christin Stewart,37348,294.07874015748,Detroit
+Hanser Alberto,37309,293.771653543307,Baltimore
+Avisail Garcia,37226,293.11811023622,Tampa Bay
+Vladimir Guerrero Jr.,36859,290.228346456693,Toronto
+Jake Bauers,36727,289.188976377953,Cleveland
+Shohei Ohtani,36695,288.937007874016,Los Angeles
+Todd Frazier,36644,288.535433070866,New York
+Yoan Moncada,36634,288.456692913386,Chicago
+Austin Riley,36524,287.590551181102,Atlanta
+Khris Davis,36463,287.110236220472,Oakland
+Joc Pederson,36422,286.787401574803,Los Angeles
+Yadier Molina,36008,283.527559055118,St. Louis
+Hunter Dozier,35915,282.795275590551,Kansas City
+Yandy Diaz,35866,282.409448818898,Tampa Bay
+Leury Garcia,35814,282,Chicago
+Marwin Gonzalez,35372,278.51968503937,Minnesota
+Jose Martinez,35231,277.409448818898,St. Louis
+Jackie Bradley Jr.,35203,277.188976377953,Boston
+Ji-Man Choi,34909,274.874015748031,Tampa Bay
+Stephen Piscotty,34856,274.456692913386,Oakland
+Yolmer Sanchez,34704,273.259842519685,Chicago
+James McCann,34645,272.795275590551,Chicago
+Kevin Kiermaier,34642,272.771653543307,Tampa Bay
+Scott Kingery,34604,272.472440944882,Philadelphia
+Rowdy Tellez,34577,272.259842519685,Toronto
+Eric Thames,34419,271.015748031496,Milwaukee
+Mallex Smith,34240,269.606299212598,Seattle
+Kyle Seager,34127,268.716535433071,Seattle
+Trea Turner,34107,268.55905511811,Washington
+Michael Conforto,33892,266.866141732283,New York
+Luke Voit,33634,264.834645669291,New York
+Tim Anderson,33618,264.708661417323,Chicago
+Albert Pujols,33514,263.889763779528,Los Angeles
+JaCoby Jones,33348,262.582677165354,Detroit
+Justin Smoak,32938,259.354330708661,Toronto
+Danny Santana,32911,259.141732283465,Texas
+Orlando Arcia,32878,258.88188976378,Milwaukee
+Jesse Winker,32813,258.370078740157,Cincinnati
+Robbie Grossman,32796,258.236220472441,Oakland
+Jose Peraza,32593,256.637795275591,Cincinnati
+Willson Contreras,32488,255.811023622047,Chicago
+Ian Kinsler,32415,255.236220472441,San Diego
+Josh Phegley,32384,254.992125984252,Oakland
+Brian Anderson,32362,254.818897637795,Miami
+Brett Gardner,32202,253.55905511811,New York
+Howie Kendrick,32052,252.377952755906,Washington
+Pablo Sandoval,31879,251.015748031496,San Francisco
+Adalberto Mondesi,31854,250.818897637795,Kansas City
+Ryan Braun,31841,250.716535433071,Milwaukee
+Byron Buxton,31690,249.527559055118,Minnesota
+Jonathan Lucroy,31648,249.196850393701,Los Angeles
+Dexter Fowler,31639,249.125984251969,St. Louis
+Oscar Mercado,31610,248.897637795276,Cleveland
+Ronald Guzman,31415,247.362204724409,Texas
+Corey Seager,31122,245.055118110236,
+Tyler White,30972,243.874015748032,Houston
+Brandon Dixon,30847,242.889763779528,Detroit
+Elias Diaz,30796,242.488188976378,Pittsburgh
+Carson Kelly,30679,241.566929133858,Arizona
+Ian Desmond,30672,241.511811023622,Colorado
+Austin Hedges,30659,241.409448818898,San Diego
+Lourdes Gurriel Jr.,30473,239.944881889764,Toronto
+Melky Cabrera,30462,239.858267716535,Pittsburgh
+Nelson Cruz,30396,239.338582677165,Minnesota
+Danny Jansen,30363,239.07874015748,Toronto
+Hunter Pence,30231,238.03937007874,
+Garrett Cooper,30135,237.283464566929,Miami
+Albert Almora Jr.,29994,236.173228346457,
+Tony Wolters,29869,235.188976377953,Colorado
+David Peralta,29852,235.055118110236,Arizona
+Ryan McMahon,29733,234.11811023622,Colorado
+Nicky Lopez,29550,232.677165354331,Kansas City
+Harold Ramirez,29055,228.779527559055,Miami
+Buster Posey,28888,227.464566929134,San Francisco
+Harrison Bader,28842,227.102362204724,St. Louis
+Brian McCann,28797,226.748031496063,Atlanta
+Wil Myers,28450,224.015748031496,San Diego
+Robinson Chirinos,28394,223.574803149606,Houston
+Kurt Suzuki,28227,222.259842519685,Washington
+J.P. Crawford,28158,221.716535433071,Seattle
+Maikel Franco,28147,221.629921259843,Philadelphia
+David Bote,28062,220.96062992126,Chicago
+Wilson Ramos,27935,219.96062992126,New York
+Yonder Alonso,27419,215.897637795276,Chicago
+Miguel Sano,27383,215.614173228346,Minnesota
+Dwight Smith Jr,27155,213.818897637795,
+Jordan Luplow,26948,212.188976377953,Cleveland
+Luis Rengifo,26836,211.307086614173,Los Angeles
+Derek Dietrich,26807,211.07874015748,Cincinnati
+Matt Adams,26791,210.952755905512,Washington
+Brian Goodwin,26459,208.338582677165,Los Angeles
+Jarrod Dyson,26320,207.244094488189,Arizona
+Rio Ruiz,26320,207.244094488189,Baltimore
+Billy Hamilton,26252,206.708661417323,Kansas City
+Curtis Granderson,26113,205.614173228346,Miami
+Yan Gomes,26081,205.362204724409,Washington
+Cavan Biggio,25878,203.763779527559,Toronto
+Ben Gamel,25877,203.755905511811,Milwaukee
+Brandon Drury,25823,203.330708661417,Toronto
+Gregory Polanco,25649,201.96062992126,
+Eloy Jimenez,25640,201.889763779528,Chicago
+Ronny Rodriguez,25446,200.362204724409,Detroit
+Pedro Severino,24934,196.330708661417,Baltimore
+Robinson Cano,24774,195.070866141732,New York
+Martin Maldonado,24677,194.307086614173,Kansas City
+Stevie Wilkerson,24441,192.448818897638,Baltimore
+Roberto Perez,24416,192.251968503937,Cleveland
+Mitch Haniger,24239,190.858267716535,
+Jorge Alfaro,24038,189.275590551181,Miami
+Mark Canha,23983,188.842519685039,Oakland
+John Hicks,23843,187.740157480315,Detroit
+Leonys Martin,23796,187.370078740157,
+Jesus Aguilar,23531,185.283464566929,Milwaukee
+Aaron Hicks,23497,185.015748031496,New York
+Dee Gordon,23476,184.850393700787,Seattle
+Addison Russell,23349,183.850393700787,Chicago
+Jason Castro,23341,183.787401574803,Minnesota
+Ryan O'Hearn,23302,183.48031496063,
+Jake Marisnick,23299,183.456692913386,Houston
+Stephen Vogt,23099,181.88188976378,San Francisco
+Greg Garcia,23097,181.866141732283,San Diego
+Ryan Cordell,22924,180.503937007874,Chicago
+Chris Davis,22609,178.023622047244,Baltimore
+Steven Duggar,22455,176.811023622047,
+Chad Pinder,22424,176.566929133858,Oakland
+Neil Walker,22338,175.889763779528,Miami
+Mike Yastrzemski,22314,175.700787401575,San Francisco
+Anthony Santander,22249,175.188976377953,Baltimore
+Travis d'Arnaud,22241,175.125984251969,Tampa Bay
+George Springer,22235,175.07874015748,Houston
+Tim Beckham,21833,171.913385826772,Seattle
+Joey Gallo,21790,171.574803149606,Texas
+Logan Forsythe,21746,171.228346456693,Texas
+Andrew McCutchen,21485,169.173228346457,
+Charlie Tilson,21231,167.173228346457,Chicago
+Tony Kemp,21029,165.582677165354,Houston
+Carlos Correa,21026,165.55905511811,
+J.D. Davis,20915,164.685039370079,New York
+Richie Martin,20844,164.125984251969,Baltimore
+Harold Castro,20796,163.748031496063,Detroit
+Willie Calhoun,20796,163.748031496063,Texas
+Gordon Beckham,20783,163.645669291339,Detroit
+Dominic Smith,20699,162.984251968504,New York
+Delino DeShields,20373,160.417322834646,Texas
+Tucker Barnhart,20264,159.55905511811,
+Mac Williamson,20024,157.669291338583,Seattle
+Jeimer Candelario,19961,157.173228346457,Detroit
+Cameron Maybin,19876,156.503937007874,
+Eduardo Nunez,19720,155.275590551181,Boston
+Cheslor Cuthbert,19633,154.590551181102,Kansas City
+Clint Frazier,19556,153.984251968504,
+Kendrys Morales,19463,153.251968503937,
+Daniel Robertson,19412,152.850393700787,
+Ehire Adrianza,19285,151.850393700787,Minnesota
+Donovan Solano,19234,151.448818897638,San Francisco
+Matt Beaty,18992,149.543307086614,Los Angeles
+Mitch Garver,18989,149.51968503937,Minnesota
+Ildemaro Vargas,18986,149.496062992126,Arizona
+Tom Murphy,18956,149.259842519685,Seattle
+Teoscar Hernandez,18872,148.59842519685,Toronto
+Austin Barnes,18834,148.299212598425,Los Angeles
+Mike Zunino,18799,148.023622047244,Tampa Bay
+Luis Arraez,18543,146.007874015748,Minnesota
+Carlos Gomez,18490,145.590551181102,New York
+Curt Casali,18455,145.314960629921,Cincinnati
+Tyler Naquin,18427,145.094488188976,Cleveland
+Manuel Margot,18384,144.755905511811,San Diego
+Hernan Perez,18096,142.488188976378,Milwaukee
+Jose Rondon,17885,140.826771653543,Chicago
+Adeiny Hechavarria,17727,139.582677165354,New York
+Johan Camargo,17645,138.937007874016,Atlanta
+Travis Shaw,17463,137.503937007874,Milwaukee
+Dylan Moore,17438,137.307086614173,Seattle
+Tim Locastro,17307,136.275590551181,Arizona
+Sandy Leon,17208,135.496062992126,Boston
+Jeff Mathis,17181,135.283464566929,Texas
+Fernando Tatis Jr.,16951,133.472440944882,San Diego
+Carlos Gonzalez,16667,131.236220472441,Chicago
+Corey Dickerson,16484,129.795275590551,Pittsburgh
+Ty France,16264,128.062992125984,
+Gerardo Parra,16228,127.779527559055,Washington
+Mitch Moreland,16223,127.740157480315,
+Didi Gregorius,16109,126.842519685039,New York
+Willians Astudillo,16053,126.40157480315,Minnesota
+David Freese,15985,125.866141732283,
+Tyler Flowers,15933,125.456692913386,Atlanta
+Keston Hiura,15926,125.40157480315,Milwaukee
+Martin Prado,15922,125.370078740157,
+Chris Iannetta,15764,124.125984251969,Colorado
+Matt Wieters,15414,121.370078740157,St. Louis
+Dawel Lugo,15333,120.732283464567,Detroit
+Tyler Austin,15167,119.425196850394,San Francisco
+Yordan Alvarez,14883,117.188976377953,Houston
+Cole Tucker,14739,116.055118110236,
+Russell Martin,14577,114.779527559055,Los Angeles
+Kyle Farmer,14576,114.771653543307,Cincinnati
+Andrelton Simmons,14504,114.204724409449,Los Angeles
+Cam Gallagher,14351,113,Kansas City
+Brock Holt,14278,112.425196850394,Boston
+Jose Altuve,14220,111.968503937008,Houston
+Juan Lagares,14176,111.622047244094,New York
+Keon Broxton,14099,111.015748031496,Baltimore
+Guillermo Heredia,14075,110.826771653543,Tampa Bay
+Austin Dean,13862,109.149606299213,
+Jung Ho Kang,13598,107.070866141732,Pittsburgh
+Josh Naylor,13433,105.771653543307,San Diego
+Austin Romine,13328,104.944881889764,New York
+Victor Caratini,13328,104.944881889764,Chicago
+Isiah Kiner-Falefa,13271,104.496062992126,
+Jose Osuna,13145,103.503937007874,Pittsburgh
+Francisco Mejia,12949,101.96062992126,San Diego
+Mark Reynolds,12462,98.1259842519685,Colorado
+Justin Bour,12442,97.9685039370079,Los Angeles
+JT Riddle,12417,97.7716535433071,Miami
+Mike Tauchman,12271,96.6220472440945,New York
+Alex Dickerson,12253,96.4803149606299,San Francisco
+Wilmer Flores,12220,96.2204724409449,
+Billy McKinney,12216,96.1889763779528,Toronto
+Odubel Herrera,12178,95.8897637795276,
+Kevin Plawecki,12065,95,Cleveland
+Chance Sisco,11970,94.251968503937,Baltimore
+Justin Upton,11852,93.3228346456693,Los Angeles
+Joey Wendle,11833,93.1732283464567,Tampa Bay
+Steve Pearce,11788,92.8188976377953,
+Matt Joyce,11742,92.4566929133858,
+Shed Long,11639,91.6456692913386,
+Tomas Nido,11551,90.9527559055118,New York
+Josh Harrison,11521,90.7165354330709,
+Aledmys Diaz,11438,90.0629921259843,
+Brendan Rodgers,11388,89.6692913385827,
+Tommy Edman,11297,88.9527559055118,St. Louis
+Daniel Descalso,11275,88.7795275590551,Chicago
+Cesar Puello,11244,88.5354330708662,Miami
+Manny Pina,11050,87.007874015748,Milwaukee
+Mike Freeman,10987,86.5118110236221,Cleveland
+Luke Maile,10958,86.2834645669292,Toronto
+Yairo Munoz,10932,86.0787401574803,St. Louis
+Myles Straw,10819,85.1889763779528,Houston
+Ryon Healy,10633,83.7244094488189,
+Grayson Greiner,10586,83.3543307086614,
+Welington Castillo,10251,80.7165354330709,
+Charlie Culberson,10048,79.1181102362205,Atlanta
+Brandon Nimmo,9933,78.2125984251969,
+Michael A. Taylor,9582,75.4488188976378,
+Kevin Cron,9527,75.0157480314961,Arizona
+Wilmer Difo,9520,74.9606299212598,
+Nate Lowe,9514,74.9133858267717,Tampa Bay
+Nick Williams,9060,71.3385826771654,
+Jon Jay,9030,71.1023622047244,Chicago
+Andrew Knapp,8968,70.6141732283465,Philadelphia
+Blake Swihart,8962,70.5669291338583,
+Garrett Hampson,8841,69.6141732283465,Colorado
+Josh VanMeter,8775,69.0944881889764,Cincinnati
+Nicky Delmonico,8640,68.0314960629921,
+Alex Avila,8550,67.3228346456693,Arizona
+Wilfredo Tovar,8550,67.3228346456693,Los Angeles
+Jedd Gyorko,8429,66.3700787401575,
+Tim Federowicz,8377,65.9606299212598,Texas
+Bryan Holaday,8312,65.4488188976378,Miami
+Jonathan Davis,8195,64.5275590551181,Toronto
+Jack Mayfield,8072,63.5590551181102,
+Greg Allen,8051,63.3937007874016,Cleveland
+Kevan Smith,8048,63.3700787401575,
+Aaron Judge,7992,62.9291338582677,New York
+Jake Cave,7819,61.5669291338583,Minnesota
+Sean Rodriguez,7738,60.9291338582677,Philadelphia
+Kelvin Gutierrez,7675,60.4330708661417,
+Jacob Stallings,7455,58.7007874015748,Pittsburgh
+Ender Inciarte,7394,58.2204724409449,
+Marco Hernandez,7356,57.9212598425197,Boston
+Michael Brosseau,7197,56.6692913385827,
+Kyle Garlick,7185,56.5748031496063,Los Angeles
+Derek Fisher,7136,56.1889763779528,
+Joey Rickard,7081,55.755905511811,
+Jon Berti,7054,55.5433070866142,
+Rosell Herrera,6959,54.7952755905512,
+Nick Hundley,6897,54.3070866141732,
+Lucas Duda,6891,54.259842519685,Kansas City
+Phillip Ervin,6767,53.2834645669291,
+Dustin Garneau,6742,53.0866141732284,Los Angeles
+Zack Cozart,6623,52.1496062992126,
+Jake Lamb,6621,52.1338582677165,Arizona
+Chris Owings,6569,51.7244094488189,
+Bobby Wilson,6409,50.4645669291339,Detroit
+Christian Arroyo,6283,49.4724409448819,
+Jordy Mercer,6053,47.6614173228346,Detroit
+Humberto Arteaga,5925,46.6535433070866,Kansas City
+John Ryan Murphy,5898,46.4409448818898,
+Jared Walsh,5862,46.1574803149606,
+Max Fried,5654,44.5196850393701,Atlanta
+Francisco Cervelli,5620,44.251968503937,
+Yadiel Rivera,5566,43.8267716535433,Miami
+Thairo Estrada,5508,43.3700787401575,
+Austin Wynns,5460,42.992125984252,
+Will Smith,5406,42.5669291338583,Los Angeles
+Miguel Andujar,5309,41.8031496062992,
+Austin Allen,5239,41.251968503937,
+Victor Reyes,5179,40.7795275590551,Detroit
+Chad Wallach,5074,39.9527559055118,
+Max Stassi,4888,38.488188976378,Houston
+Joe Musgrove,4884,38.4566929133858,Pittsburgh
+Brandon Woodruff,4709,37.0787401574803,Milwaukee
+Bobby Bradley,4662,36.7086614173228,Cleveland
+Phil Gosselin,4566,35.9527559055118,
+Tyler O'Neill,4485,35.3149606299213,St. Louis
+DJ Stewart,4448,35.0236220472441,
+Brad Miller,4299,33.8503937007874,Philadelphia
+Zack Greinke,4264,33.5748031496063,Arizona
+Jake Elmore,4180,32.9133858267717,
+Tyler Saladino,4150,32.6771653543307,Milwaukee
+Edwin Rios,4079,32.1181102362205,Los Angeles
+Carter Kieboom,3997,31.4724409448819,
+Austin Nola,3926,30.9133858267717,Seattle
+Garrett Stubbs,3904,30.740157480315,
+Terrance Gore,3776,29.7322834645669,Kansas City
+Beau Taylor,3766,29.6535433070866,Oakland
+Ryan Zimmerman,3744,29.4803149606299,Washington
+Pat Valaika,3695,29.0944881889764,Colorado
+Kenta Maeda,3673,28.9212598425197,Los Angeles
+German Marquez,3591,28.2755905511811,Colorado
+Austin Slater,3562,28.0472440944882,San Francisco
+Adam Wainwright,3356,26.4251968503937,St. Louis
+Walker Buehler,3356,26.4251968503937,Los Angeles
+Stephen Strasburg,3293,25.9291338582677,Washington
+Jorge Bonifacio,3276,25.7952755905512,
+Jack Flaherty,3239,25.503937007874,St. Louis
+Zack Wheeler,3236,25.4803149606299,New York
+Peter O'Brien,3225,25.3937007874016,
+Zack Collins,3193,25.1417322834646,Chicago
+Hyun-Jin Ryu,3190,25.1181102362205,Los Angeles
+Jacob deGrom,3145,24.7637795275591,New York
+Scooter Gennett,3039,23.9291338582677,Cincinnati
+Yangervis Solarte,3014,23.7322834645669,
+Jon Lester,2974,23.4173228346457,Chicago
+Andrew Velazquez,2962,23.3228346456693,
+Zach Davies,2950,23.2283464566929,Milwaukee
+Yu Darvish,2939,23.1417322834646,Chicago
+Erik Kratz,2935,23.1102362204724,
+Adrian Sanchez,2896,22.8031496062992,Washington
+Steven Brault,2824,22.2362204724409,Pittsburgh
+Caleb Joseph,2779,21.8818897637795,Arizona
+Max Scherzer,2768,21.7952755905512,Washington
+Cole Hamels,2708,21.3228346456693,
+Julio Teheran,2664,20.9763779527559,Atlanta
+Noah Syndergaard,2651,20.8740157480315,New York
+Steven Matz,2632,20.7244094488189,New York
+Jarrett Parker,2587,20.3700787401575,Los Angeles
+Clayton Kershaw,2479,19.5196850393701,Los Angeles
+Adam Engel,2462,19.3858267716535,
+Taylor Davis,2398,18.8818897637795,
+Antonio Senzatela,2349,18.496062992126,Colorado
+Giancarlo Stanton,2333,18.3700787401575,New York
+Aramis Garcia,2309,18.1811023622047,
+Jeff Samardzija,2306,18.1574803149606,San Francisco
+Isaac Galloway,2295,18.0708661417323,
+Madison Bumgarner,2289,18.0236220472441,San Francisco
+Mike Soroka,2167,17.0629921259843,Atlanta
+Trevor Richards,2140,16.8503937007874,Miami
+Tanner Roark,2102,16.5511811023622,Cincinnati
+Patrick Corbin,2097,16.5118110236221,Washington
+Ben Zobrist,2064,16.251968503937,
+Tyler Chatwood,2025,15.9448818897638,Chicago
+Dakota Hudson,2011,15.8346456692913,St. Louis
+Pablo Lopez,2006,15.7952755905512,
+Peter Lambert,2001,15.755905511811,Colorado
+Michael Perez,1980,15.5905511811024,
+Scott Schebler,1977,15.5669291338583,
+Tyler Wade,1975,15.5511811023622,
+Aaron Altherr,1974,15.5433070866142,
+Anibal Sanchez,1943,15.2992125984252,Washington
+Franklin Barreto,1943,15.2992125984252,Oakland
+Sonny Gray,1911,15.0472440944882,Cincinnati
+Taylor Clarke,1910,15.0393700787402,Arizona
+Tzu-Wei Lin,1839,14.4803149606299,
+Jhoulys Chacin,1837,14.4645669291339,Milwaukee
+Roman Quinn,1822,14.3464566929134,Philadelphia
+Jake Arrieta,1816,14.2992125984252,Philadelphia
+Shaun Anderson,1815,14.2913385826772,San Francisco
+Rajai Davis,1743,13.7244094488189,
+Kyle Hendricks,1736,13.6692913385827,Chicago
+Merrill Kelly,1674,13.1811023622047,Arizona
+Cole Irvin,1673,13.1732283464567,
+Miles Mikolas,1639,12.9055118110236,St. Louis
+Zach Eflin,1627,12.8110236220472,Philadelphia
+Sam Travis,1604,12.6299212598425,Boston
+Aaron Nola,1600,12.5984251968504,Philadelphia
+Jake Noll,1597,12.5748031496063,
+Wilkin Castillo,1592,12.5354330708661,Miami
+Braden Bishop,1578,12.4251968503937,
+Richard Urena,1570,12.3622047244095,
+Andrew Stevenson,1565,12.3228346456693,
+Chris Herrmann,1500,11.8110236220472,Oakland
+Socrates Brito,1479,11.6456692913386,
+Matt Strahm,1448,11.4015748031496,San Diego
+Luis Castillo,1441,11.3464566929134,Cincinnati
+Robel Garcia,1436,11.3070866141732,Chicago
+Eric Lauer,1413,11.1259842519685,San Diego
+Vince Velasquez,1411,11.1102362204724,Philadelphia
+Trevor Williams,1328,10.4566929133858,Pittsburgh
+Jason Vargas,1315,10.3543307086614,New York
+Mike Gerber,1295,10.1968503937008,
+A.J. Pollock,1289,10.1496062992126,
+Jeff Hoffman,1254,9.8740157480315,
+Anthony DeSclafani,1248,9.82677165354331,Cincinnati
+Rich Hill,1218,9.59055118110236,
+Domingo Leyba,1216,9.5748031496063,Arizona
+Chris Paddack,1215,9.56692913385827,San Diego
+Tyler Beede,1189,9.36220472440945,San Francisco
+Julio Urias,1186,9.33858267716535,Los Angeles
+Jose Quintana,1171,9.22047244094488,Chicago
+Robbie Ray,1170,9.21259842519685,Arizona
+Jacob Nottingham,1124,8.8503937007874,
+Matt Thaiss,1123,8.84251968503937,Los Angeles
+Mark Zagunis,1110,8.74015748031496,
+Chase Anderson,1099,8.65354330708662,Milwaukee
+Elieser Hernandez,1084,8.53543307086614,Miami
+Andrew Knizner,1065,8.38582677165354,
+Joey Lucchesi,1055,8.30708661417323,San Diego
+Adam Haseley,1013,7.97637795275591,
+Sandy Alcantara,1001,7.88188976377953,Miami
+Mike Montgomery,975,7.67716535433071,Chicago
+Chris Archer,969,7.62992125984252,Pittsburgh
+Luke Weaver,943,7.4251968503937,
+Anthony Bemboom,932,7.33858267716536,
+Skye Bolt,929,7.31496062992126,
+Seby Zavala,917,7.22047244094488,
+Daniel Palka,916,7.21259842519685,Chicago
+Dallas Keuchel,908,7.1496062992126,Atlanta
+Lewis Brinson,903,7.11023622047244,
+Nick Margevicius,884,6.96062992125984,
+Michael Wacha,883,6.95275590551181,St. Louis
+Mike Ford,878,6.91338582677165,New York
+Trevor Cahill,810,6.37795275590551,
+Daniel Norris,805,6.33858267716536,
+Yonathan Daza,800,6.2992125984252,
+JB Shuck,793,6.24409448818898,
+Pablo Reyes,791,6.22834645669291,
+Zack Godley,732,5.76377952755906,
+Mike Foltynewicz,730,5.74803149606299,
+Tyler Mahle,730,5.74803149606299,Cincinnati
+Nick Pivetta,723,5.69291338582677,Philadelphia
+Dereck Rodriguez,720,5.66929133858268,
+Kyle Freeland,719,5.66141732283465,
+Walker Lockett,709,5.58267716535433,New York
+Chad Bettis,689,5.4251968503937,
+Jon Gray,670,5.2755905511811,Colorado
+Freddy Peralta,650,5.11811023622047,Milwaukee
+Cal Quantrill,625,4.92125984251969,San Diego
+Alen Hanson,624,4.91338582677165,
+Luis Guillorme,608,4.78740157480315,New York
+Rangel Ravelo,589,4.63779527559055,St. Louis
+Yu Chang,587,4.62204724409449,Cleveland
+Charlie Morton,569,4.48031496062992,
+Edwin Jackson,560,4.40944881889764,
+Sean Newcomb,557,4.38582677165354,
+Brad Brach,548,4.31496062992126,Chicago
+Caleb Smith,537,4.22834645669291,Miami
+Spencer Turnbull,533,4.19685039370079,
+Touki Toussaint,508,4,
+Jordan Lyles,503,3.96062992125984,Pittsburgh
+Mike Leake,502,3.95275590551181,Seattle
+Taylor Ward,494,3.88976377952756,
+Josh Tomlin,482,3.79527559055118,
+Tony Gonsolin,482,3.79527559055118,Los Angeles
+Gerrit Cole,481,3.78740157480315,
+Kyle McGowin,464,3.65354330708661,
+Nick Ciuffo,460,3.62204724409449,
+Chris Bassitt,447,3.51968503937008,Oakland
+Breyvic Valera,444,3.49606299212598,New York
+Drew Gagnon,423,3.33070866141732,
+Kevin Gausman,401,3.15748031496063,
+Jordan Yamamoto,386,3.03937007874016,Miami
+Gregory Soto,381,3,
+Drew Pomeranz,377,2.96850393700787,San Francisco
+Alex Young,371,2.92125984251969,Arizona
+Ross Stripling,366,2.88188976377953,Los Angeles
+Jimmie Sherfy,365,2.8740157480315,
+Wade Miley,352,2.77165354330709,Houston
+Lane Thomas,351,2.76377952755906,St. Louis
+Mike Minor,338,2.66141732283465,
+Max Moroff,333,2.62204724409449,
+Jose Urena,330,2.59842519685039,
+Rocky Gale,305,2.40157480314961,
+Aaron Sanchez,298,2.34645669291339,
+Adrian Houser,289,2.2755905511811,Milwaukee
+Trent Thornton,288,2.26771653543307,
+LaMonte Wade Jr,283,2.22834645669291,Minnesota
+Nick Kingham,279,2.19685039370079,
+Erick Fedde,278,2.18897637795276,
+Lucas Sims,263,2.07086614173228,
+Eric Haase,259,2.03937007874016,
+Daniel Ponce de Leon,256,2.01574803149606,St. Louis
+Gio Gonzalez,254,2,
+Francisco Liriano,252,1.98425196850394,
+Shelby Miller,237,1.86614173228346,
+John Means,233,1.83464566929134,
+Phil Maton,229,1.80314960629921,San Diego
+Drew Butera,226,1.77952755905512,
+Griffin Canning,226,1.77952755905512,
+John Brebbia,223,1.75590551181102,
+Javy Guerra,222,1.74803149606299,
+Brad Keller,217,1.70866141732283,Kansas City
+Justin Verlander,215,1.69291338582677,
+Mauricio Dubon,214,1.68503937007874,Milwaukee
+Wilmer Font,214,1.68503937007874,
+Ariel Jurado,212,1.66929133858268,
+Jim Adduci,211,1.66141732283465,
+Nick Ramirez,211,1.66141732283465,
+Tyler Lyons,206,1.62204724409449,
+Jesse Chavez,204,1.60629921259843,
+Tanner Anderson,202,1.59055118110236,Oakland
+Tyler Skaggs,202,1.59055118110236,
+Zac Gallen,200,1.5748031496063,Miami
+Jason Martin,199,1.56692913385827,
+Frankie Montas,190,1.49606299212598,
+Kyle Ryan,185,1.45669291338583,Chicago
+Austin Voth,177,1.39370078740157,Washington
+Logan Allen,175,1.37795275590551,San Diego
+Elvis Luciano,170,1.33858267716535,
+Jimmy Nelson,170,1.33858267716535,
+Archie Bradley,169,1.33070866141732,
+Ivan Nova,163,1.28346456692913,
+Wei-Yin Chen,139,1.09448818897638,
+Adbert Alzolay,131,1.03149606299213,Chicago
+Bryse Wilson,125,0.984251968503937,Atlanta
+Trevor Bauer,125,0.984251968503937,Cleveland
+Dan Winkler,120,0.944881889763779,
+Shane Bieber,120,0.944881889763779,Cleveland
+Domingo German,116,0.913385826771654,New York
+Andrew Suarez,112,0.881889763779528,
+Jordan Zimmermann,111,0.874015748031496,
+Mitch Keller,107,0.84251968503937,
+Luis Perdomo,106,0.834645669291339,
+Matthew Boyd,90,0.708661417322835,
+Michael Lorenzen,80,0.62992125984252,Cincinnati
+Jeremy Hellickson,69,0.543307086614173,
+Jerad Eickhoff,66,0.519685039370079,
+David Hess,63,0.496062992125984,
+Yusmeiro Petit,57,0.448818897637795,
+T.J. McFarland,55,0.433070866141732,
+Brett Anderson,54,0.425196850393701,
+Joe Kelly,53,0.417322834645669,
+Tyler Anderson,40,0.31496062992126,
+Dinelson Lamet,36,0.283464566929134,San Diego
+Jakob Junis,35,0.275590551181102,Kansas City
+Ranger Suarez,33,0.259842519685039,
+Felix Pena,31,0.244094488188976,
+Glenn Sparkman,30,0.236220472440945,Kansas City
+Brendan McKay,28,0.220472440944882,Tampa Bay
+Jon Duplantier,21,0.165354330708661,
+Andrew Cashner,17,0.133858267716535,
+CC Sabathia,13,0.102362204724409,
+Jesus Tinoco,12,0.0944881889763779,
+Robbie Erlin,12,0.0944881889763779,
+Homer Bailey,11,0.0866141732283465,
+Raisel Iglesias,10,0.078740157480315,Cincinnati
+Robert Stephenson,10,0.078740157480315,
+Dario Agrazal,9,0.0708661417322835,Pittsburgh
+Marcus Stroman,8,0.062992125984252,
+Alex McRae,7,0.0551181102362205,
+Donnie Hart,7,0.0551181102362205,
+Genesis Cabrera,7,0.0551181102362205,
+Matt Wisler,7,0.0551181102362205,
+Taylor Williams,7,0.0551181102362205,
+J.A. Happ,6,0.047244094488189,
+Dylan Covey,5,0.0393700787401575,
+Ryan Carpenter,5,0.0393700787401575,
+Derek Holland,4,0.031496062992126,
+Kevin Kramer,4,0.031496062992126,Pittsburgh
+Montana DuRapau,3,0.0236220472440945,
+Jose Urquidy,2,0.015748031496063,Houston
+Masahiro Tanaka,2,0.015748031496063,
+Rookie Davis,2,0.015748031496063,
+Adrian Sampson,1,0.0078740157480315,
+Matt Andriese,1,0.0078740157480315,
